@@ -10,13 +10,13 @@ Here are the links to the 5 other repositories:
 
 [English](https://github.com/PrestaShop/user-documentation-en)
 
-[French](%20https://github.com/PrestaShop/user-documentation-fr)
+[French](https://github.com/PrestaShop/user-documentation-fr)
 
-[Italian](%20https://github.com/PrestaShop/user-documentation-it)
+[Italian](https://github.com/PrestaShop/user-documentation-it)
 
 [Dutch](https://github.com/PrestaShop/user-documentation-nl)
 
-[Farsi](%20https://github.com/PrestaShop/user-documentation-fa)
+[Farsi](https://github.com/PrestaShop/user-documentation-fa)
 
 This repository is synchronized with GitBook, a tool that allows creating modern and intuitive documentation pages. You can find the PrestaShop Spanish repository [here](https://prestashop.gitbook.io/documentacion-espanola-para-prestashop-1-7/).
 
