@@ -4,7 +4,7 @@
 
 Here is the [repository](https://github.com/PrestaShop/user-documentation-es) where you will find the Spanish documentation on how to create, maintain, and make the most of a PrestaShop online store.
 
-It hosts the 1.7 documentation on how to install PrestaShop and use each page of the back office. This documentation is also available in 6 other languages. 
+It hosts the 1.7 documentation on how to install PrestaShop and use each page of the back office. This documentation is also available in 6 other languages.
 
 Here are the links to the 5 other repositories:
 
@@ -35,8 +35,7 @@ This option is particularly adapted if you are not used to working on GitHub yet
 1. Create your GitHub account, if you do not have one already.
 2. Browse to the target file.
 3. Click the "Edit" button and make your changes in the editor.‌
-
-4. Once you are done, go to the bottom of the page, enter a name and a description and click on "Create a new branch for this commit and start a pull request."  
+4. Once you are done, go to the bottom of the page, enter a name and a description and click on "Create a new branch for this commit and start a pull request."
 5. Finally, click on "Propose file change". GitHub will automatically create a new fork and branch on your own GitHub account, then suggest a pull request to this repository.  
 6. Once the pull request is submitted, just wait for the product content manager to come back to you.
 
@@ -69,7 +68,7 @@ Are you a merchant? In which language would you like to translate, update, or wr
 
 PrestaShop's Product Content Manager will onboard you and will give you access to the documentation as a writer. You will have to log in with either a Gmail, GitHub, or GitBook account. Click here to[ create a GitBook account](https://app.gitbook.com/join).
 
-Once you have chosen the way to contribute that suits you best, you are ready to participate in the PrestaShop open source project. Thank you for your contribution! 
+Once you have chosen the way to contribute that suits you best, you are ready to participate in the PrestaShop open source project. Thank you for your contribution!
 
 ## License
 

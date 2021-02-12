@@ -112,7 +112,7 @@ En las páginas de detalle del producto:
 
 En el pie de página del listado de productos:
 
-![](../.gitbook/assets/54265777.png)
+![](../.gitbook/assets/54265787.png)
 
 **Etiqueta Precio por unidad**  
 
@@ -138,7 +138,7 @@ En la página de detalles del producto:
 
 En el pie de página del listado de productos:
 
-![](../.gitbook/assets/54265777.png)
+![](../.gitbook/assets/54265787.png)
 
 **Términos de revocación dentro de la página ToS - Términos de Servicio \(Terms of Service\)**  
 

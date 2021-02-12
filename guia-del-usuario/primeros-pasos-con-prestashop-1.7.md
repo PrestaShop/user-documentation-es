@@ -252,7 +252,7 @@ La página del producto funciona un poco diferente. No encontrarás un selector 
 
 De manera predeterminada, PrestaShop es instalado en cuatro idiomas: el seleccionado y utilizado durante la instalación del software, y los que se adjunta al país predeterminado en la instalación \(si son diferentes\). Para gestionar los idiomas instalados actualmente, dirígete a la página "Localización / Idiomas" bajo el menú "Internacional". Esta página presenta una tabla con los idiomas disponibles.
 
-![](../.gitbook/assets/54264959.png)
+![](../.gitbook/assets/54265329.png)
 
 El idioma o idiomas actualmente activado\(s\) tiene\(n\) una marca de verificación de color verde, mientras que los otros presentan una "X" de color rojo. Haz clic en una marca de verificación de color verde para desactivar el idioma seleccionado, haz clic en una "X" roja para volver a activarlo.
 

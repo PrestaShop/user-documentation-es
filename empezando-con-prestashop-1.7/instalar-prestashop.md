@@ -224,7 +224,7 @@ Lee la documentación de tu proveedor detenidamente.
 
 Gracias a FileZilla \(y la mayoría de clientes FTP\), no es necesario que uses ningún comando Unix. La mayoría de clientes FTP posibilitan cambiar los permisos de forma fácil y gráfica: una vez que hayas encontrado un archivo o una carpeta que necesite dicho cambio, haz clic con el botón derecho sobre ella y, en el menú contextual, elige “File permissions...” \(Permisos de archivo...\). Se abrirá una pequeña ventana.
 
-![](../.gitbook/assets/54264245.png)
+![](../.gitbook/assets/54264245%20%281%29.png)
 
 En función de la configuración de tu servidor \(que no siempre tienes a mano\), tendrás que comprobar las columnas de casillas “Read” \(Lectura\) y “Execute” \(Ejecutar\), y al menos las filas “Owner” \(Propietario\) y “Group” \(Grupo\) de la columna “Write” \(Escritura\). Algunos proveedores podrían requerir que actives la casilla pública “Write” \(Escritura\), pero ten cuidado: casi nunca es bueno que alguien pueda editar el contenido de tu instalación de PrestaShop en tu servidor.
 

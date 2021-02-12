@@ -31,7 +31,7 @@ En PrestaShop 1.7, la página del producto está organizada en pestañas:
 
 El primer campo a rellenar es el nombre del producto, que aparecerá en los resultados de los motores de búsqueda y en la URL de la hoja del producto de manera predeterminada. Junto al campo encontrarás un selector de idioma, que te permite seleccionar el idioma en el que deseas editar o crear el producto.
 
-![](../../../.gitbook/assets/54265001.png)
+![](../../../.gitbook/assets/54265001%20%281%29.png)
 
 **Debes** dar un nombre al producto en al menos el idioma predeterminado utilizado en tu tienda antes de poder guardarlo. No podrás guardar el producto hasta que no le asignes un nombre.
 

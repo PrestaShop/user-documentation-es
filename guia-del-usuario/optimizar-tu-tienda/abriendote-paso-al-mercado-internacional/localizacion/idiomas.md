@@ -14,7 +14,7 @@ Para añadir un idioma, basta con importar la ubicación del paquete de un país
 
 También puedes añadir un nuevo idioma desde la página "Traducciones", sección "Añadir / Actualizar un idioma". Contrariamente a un paquete de localización, esta acción sólo importará el idioma, y no los ajustes de localización \(unidades, moneda, etc.\).
 
-![](../../../../.gitbook/assets/54265329.png)
+![](../../../../.gitbook/assets/54265329%20%281%29.png)
 
 ## Crear un nuevo idioma <a id="Idiomas-Crearunnuevoidioma"></a>
 

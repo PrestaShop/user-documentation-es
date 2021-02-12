@@ -12,7 +12,7 @@ Tras finalizar el proceso anterior, verás la página para iniciar sesión en el
 
 Introduce la dirección de correo electrónico y la contraseña que registraste en el proceso de instalación de PrestaShop. Haz clic en el botón "Iniciar sesión", y comprobarás como automáticamente el navegador será redireccionado a la página de bienvenida del panel de control.
 
-![](../.gitbook/assets/54264906.png)
+![](../.gitbook/assets/54264906%20%281%29.png)
 
 A partir de este momento, puedes comenzar a configurar tu tienda y vender productos a tus clientes.
 

@@ -8,7 +8,7 @@ Este capítulo contiene las siguientes secciones:
 * [Configurar los Pedidos](configurar-los-pedidos/)
 * [Configurar los Productos](configurar-los-productos.md)
 * [Configurar los Clientes](configurar-los-clientes/)
-* [Contacto](contacto/)
+* [Contacto](contacto.md)
 * [Tráfico](trafico/)
 * [Búsqueda](busqueda/)
 
