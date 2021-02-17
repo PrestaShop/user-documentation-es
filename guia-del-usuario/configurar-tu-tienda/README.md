@@ -5,5 +5,5 @@ La sección "Configurar" te permite configurar y afinar algunos de los detalles 
 Este capítulo contiene las siguientes secciones:
 
 * [Configurar los Parámetros de la tienda](parametros-de-la-tienda/)
-* [Configurar los Parámetros Avanzados](configurar-los-parametros-avanzados/)
+* [Configurar los Parámetros Avanzados](parametros-avanzados/)
 
