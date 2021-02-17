@@ -26,7 +26,7 @@ Capítulos de esta guía:
   * [Gestionar Pagos](optimizar-tu-tienda/gestionar-pagos/)
   * [Abriéndote paso al Mercado Internacional](optimizar-tu-tienda/abriendote-paso-al-mercado-internacional/)
 * [Configurar tu tienda](configurar-tu-tienda/)
-  * [Configurar los Parámetros de la tienda](configurar-tu-tienda/configurar-los-parametros-de-la-tienda/)
+  * [Configurar los Parámetros de la tienda](configurar-tu-tienda/parametros-de-la-tienda/)
   * [Configurar los Parámetros Avanzados](configurar-tu-tienda/configurar-los-parametros-avanzados/)
 * [Gestionar múltiples tiendas](gestionar-multiples-tiendas/)
   * [La interfaz multitienda](gestionar-multiples-tiendas/la-interfaz-multitienda.md)
