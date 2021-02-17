@@ -8,7 +8,7 @@ Los siguientes capítulos se deben leer de forma secuencial. Por ejemplo, el pri
 
 * [¿Qué necesitas para empezar?](que-necesitas-para-empezar.md)
 * [Instalar PrestaShop](instalar-prestashop.md)
-* [Instalar PrestaShop en su ordenador](instalar-prestashop-en-su-ordenador.md)
+* [Instalar PrestaShop en su ordenador](instalar-prestashop-ordenador.md)
 * [Instalar PrestaShop usando el script de línea de comandos](instalar-prestashop-usando-el-script-de-linea-de-comandos.md)
 * [Desinstalar PrestaShop](desinstalar-prestashop.md)
 * [Información miscelánea](informacion-miscelanea.md)

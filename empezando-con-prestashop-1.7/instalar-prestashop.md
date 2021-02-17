@@ -2,7 +2,7 @@
 
 Este capítulo se ha redactado para aquellos que pretenden instalar PrestaShop en su servidor web online.
 
-Si quieres instalar PrestaShop en tu propio ordenador, sigue primero las instrucciones de la página [Instalar de PrestaShop en tu ordenador](instalar-prestashop-en-su-ordenador.md).
+Si quieres instalar PrestaShop en tu propio ordenador, sigue primero las instrucciones de la página [Instalar de PrestaShop en tu ordenador](instalar-prestashop-ordenador.md).
 
 Si ya has leído las instrucciones de esa página, omite la sección “Creación de una base de datos para tu tienda” que recogemos a continuación.
 
