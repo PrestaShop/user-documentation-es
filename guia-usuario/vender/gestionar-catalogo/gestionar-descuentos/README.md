@@ -16,6 +16,6 @@ Las "Reglas de precios" pueden ser de dos tipos:
 
 Este capítulo contiene las siguientes secciones:
 
-* [Reglas del carrito](reglas-del-carrito.md)
+* [Reglas del carrito](reglas-carrito.md)
 * [Reglas de precios del catalogo](reglas-de-precios.md)
 

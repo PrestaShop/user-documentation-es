@@ -6,7 +6,7 @@ Este capítulo contiene las siguientes secciones:
 
 * [Tema y Logotipo](tema-y-logotipo.md)
 * [Catálogo de Temas](catalogo-temas.md)
-* [Paginas - Gestionar el Contenido Estatico](paginas-gestionar-el-contenido-estatico.md)
+* [Paginas - Gestionar el Contenido Estatico](paginas-gestionar-contenido-estatico.md)
 * [Posiciones de los módulos en el front-office](posiciones-modulos.md)
 * [Ajustes de imágenes](ajustes-imagenes.md)
 * [Widget de enlaces](widget-enlaces.md)
