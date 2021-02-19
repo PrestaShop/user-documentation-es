@@ -9,6 +9,6 @@ Los ajustes para cualquier cosa relacionada con el cliente se encuentran en el m
 Este capítulo contiene las siguientes secciones:
 
 * [Tus clientes](tus-clientes.md)
-* [Direcciones de clientes](direcciones-de-clientes.md)
+* [Direcciones de clientes](direcciones-clientes.md)
 * [B2B - Saldo pendiente por cobrar](b2b-saldo-pendiente-por-cobrar.md)
 

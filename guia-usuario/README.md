@@ -9,7 +9,7 @@ Puedes publicar todas tus dudas y preguntas directamente en nuestro foro: [http:
 Capítulos de esta guía:
 
 * [Formación](formacion.md)
-* [Personalización de tu tienda](personalizacion-tienda.md)
+* [Personalización de tu tienda](personalizar-tienda.md)
 * [Conexión al back-office de PrestaShop](conexion-back-office.md)
 * [Descubriendo el Área de Administración](descubrir-area-administracion.md)
 * [Primeros pasos con PrestaShop 1.7](primeros-pasos.md)
@@ -17,7 +17,7 @@ Capítulos de esta guía:
   * [Gestionar los pedidos](vender/gestionar-pedidos/)
   * [Gestionar el catálogo de productos](vender/gestionar-catalogo/)
   * [Gestionar tus clientes](vender/gestionar-clientes/)
-  * [Gestionar el Servicio de atención al cliente](vender/gestionar-el-servicio-de-atencion-al-cliente/)
+  * [Gestionar el Servicio de atención al cliente](vender/gestionar-servicio-atencion-cliente/)
   * [Comprender las estadísticas](vender/comprender-estadisticas.md)
 * [Optimizar tu tienda](optimizar-tienda/)
   * [Gestionar los módulos](optimizar-tienda/gestionar-modulos/)

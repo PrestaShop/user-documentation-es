@@ -1,7 +1,7 @@
 # Gestionar Stock
 
-*  [Visión global del Stock](vision-global-del-stock.md)
-*  [Movimientos de Stock](movimientos-de-stock.md)
+*  [Visión global del Stock](vision-global-stock.md)
+*  [Movimientos de Stock](movimientos-stock.md)
 
 Puedes gestionar el stock de tu tienda desde la página "Stock", bajo el menú "Catálogo". No se requiere realizar ningún paso adicional para activar la gestión de stock.
 

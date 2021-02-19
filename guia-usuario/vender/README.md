@@ -7,6 +7,6 @@ Este capítulo contiene las siguientes secciones:
 * [Gestionar los pedidos](gestionar-pedidos/)
 * [Gestionar el catálogo de productos](gestionar-catalogo/)
 * [Gestionar tus clientes](gestionar-clientes/)
-* [Gestionar el Servicio de atención al cliente](gestionar-el-servicio-de-atencion-al-cliente/)
+* [Gestionar el Servicio de atención al cliente](gestionar-servicio-atencion-cliente/)
 * [Comprender las estadísticas](comprender-estadisticas.md)
 
