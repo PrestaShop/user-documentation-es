@@ -123,6 +123,6 @@
     * [Configurar la URL de una tienda](guia-usuario/gestionar-multiples-tiendas/configurar-url-tienda.md)
     * [Ejemplo de usos y especificaciones del modo multitienda](guia-usuario/gestionar-multiples-tiendas/ejemplo-de-usos-y-especificaciones-del-modo-multitienda.md)
   * [Cumplimiento de la legislación europea](guia-usuario/cumplimiento-de-la-legislacion-europea.md)
-  * [Navegando por el front-office](guia-usuario/navegando-por-el-front-office.md)
-  * [Cumplimiento de la legislación europea del RGPD](guia-usuario/cumplimiento-de-la-legislacion-europea-del-rgpd.md)
+  * [Navegar por el front-office](guia-usuario/navegar-front-office.md)
+  * [Cumplimiento de la legislación europea del RGPD](guia-usuario/cumplimiento-rgpd.md)
 
