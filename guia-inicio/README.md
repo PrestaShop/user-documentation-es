@@ -1,4 +1,4 @@
-# Empezando con PrestaShop 1.7
+# Guía de inicio
 
 Esta guía se ha redactado para guiarte por el proceso de descarga e instalación de PrestaShop 1.7.
 

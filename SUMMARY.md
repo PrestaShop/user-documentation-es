@@ -1,7 +1,7 @@
 # Table of contents
 
 * [About the user documentation](README.md)
-* [Empezando con PrestaShop 1.7](guia-inicio/README.md)
+* [Guía de inicio](guia-inicio/README.md)
   * [¿Qué necesitas para empezar?](guia-inicio/que-necesitas-para-empezar.md)
   * [Instalar PrestaShop](guia-inicio/instalar-prestashop.md)
   * [Instalar PrestaShop en su ordenador](guia-inicio/instalar-prestashop-ordenador.md)
