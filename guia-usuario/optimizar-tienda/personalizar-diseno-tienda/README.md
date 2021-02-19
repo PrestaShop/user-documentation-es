@@ -8,6 +8,6 @@ Este capítulo contiene las siguientes secciones:
 * [Catálogo de Temas](catalogo-temas.md)
 * [Paginas - Gestionar el Contenido Estatico](paginas-gestionar-el-contenido-estatico.md)
 * [Posiciones de los módulos en el front-office](posiciones-modulos.md)
-* [Ajustes de imágenes](ajustes-de-imagenes.md)
+* [Ajustes de imágenes](ajustes-imagenes.md)
 * [Widget de enlaces](widget-enlaces.md)
 
