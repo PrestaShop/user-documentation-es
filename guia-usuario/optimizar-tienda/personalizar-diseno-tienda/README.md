@@ -9,5 +9,5 @@ Este capítulo contiene las siguientes secciones:
 * [Paginas - Gestionar el Contenido Estatico](paginas-gestionar-el-contenido-estatico.md)
 * [Posiciones de los módulos en el front-office](posiciones-modulos.md)
 * [Ajustes de imágenes](ajustes-de-imagenes.md)
-* [Widget de enlaces](widget-de-enlaces.md)
+* [Widget de enlaces](widget-enlaces.md)
 

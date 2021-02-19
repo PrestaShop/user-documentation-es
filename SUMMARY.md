@@ -58,7 +58,7 @@
       * [Paginas - Gestionar el Contenido Estatico](guia-usuario/optimizar-tienda/personalizar-diseno-tienda/paginas-gestionar-el-contenido-estatico.md)
       * [Posiciones de los módulos en el front-office](guia-usuario/optimizar-tienda/personalizar-diseno-tienda/posiciones-modulos.md)
       * [Ajustes de imágenes](guia-usuario/optimizar-tienda/personalizar-diseno-tienda/ajustes-de-imagenes.md)
-      * [Widget de enlaces](guia-usuario/optimizar-tienda/personalizar-diseno-tienda/widget-de-enlaces.md)
+      * [Widget de enlaces](guia-usuario/optimizar-tienda/personalizar-diseno-tienda/widget-enlaces.md)
     * [Gestionar Transporte](guia-usuario/optimizar-tienda/gestionar-transporte/README.md)
       * [Gestionar Transportistas](guia-usuario/optimizar-tienda/gestionar-transporte/gestionar-transportistas.md)
       * [Preferencias de Transporte](guia-usuario/optimizar-tienda/gestionar-transporte/preferencias-de-transporte.md)
