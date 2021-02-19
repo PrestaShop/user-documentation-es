@@ -303,7 +303,7 @@ Por último, para poder cerrar todas las puertas potencialmente maliciosas, util
 
 **¡Enhorabuena! La instalación ya está completa.**
 
-Inicia sesión en el back‑office de PrestaShop desde tu rebautizada carpeta “admin” y empieza a rellenar tu catálogo con productos, añadir transportistas y gastos de envío, incluir marcas y proveedores, cambiar el tema y, en general, configurar los muchos ajustes para adaptarlos a tus gustos y necesidades. Consulta el capítulo “[Primeros pasos con PrestaShop 1.7](../guia-del-usuario/primeros-pasos-con-prestashop-1.7.md)” de la guía de usuario para obtener más información.
+Inicia sesión en el back‑office de PrestaShop desde tu rebautizada carpeta “admin” y empieza a rellenar tu catálogo con productos, añadir transportistas y gastos de envío, incluir marcas y proveedores, cambiar el tema y, en general, configurar los muchos ajustes para adaptarlos a tus gustos y necesidades. Consulta el capítulo “[Primeros pasos con PrestaShop 1.7](../guia-usuario/primeros-pasos.md)” de la guía de usuario para obtener más información.
 
 Te recomendamos que hagas periódicamente una copia de seguridad de tu base de datos y tus archivos, idealmente en más de un ordenador, por si tuvieras algún problema de hardware o seguridad.
 
