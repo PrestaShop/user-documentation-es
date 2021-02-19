@@ -4,7 +4,7 @@ En PrestaShop 1.7, la sección de Servicio al Cliente recibe un menú dedicado p
 
 Este capítulo contiene las siguientes secciones:
 
-* [Servicio de atención al cliente](servicio-de-atencion-al-cliente.md)
+* [Servicio de atención al cliente](servicio-atencion-cliente.md)
 * [Mensajes predefinidos](mensajes-predefinidos.md)
 * [Devoluciones de mercancía](devoluciones-de-mercancia.md)
 

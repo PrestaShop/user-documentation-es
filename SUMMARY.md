@@ -41,7 +41,7 @@
       * [Direcciones de clientes](guia-usuario/vender/gestionar-clientes/direcciones-clientes.md)
       * [B2B - Saldo pendiente por cobrar](guia-usuario/vender/gestionar-clientes/b2b-saldo-pendiente-por-cobrar.md)
     * [Gestionar el Servicio de atención al cliente](guia-usuario/vender/gestionar-servicio-atencion-cliente/README.md)
-      * [Servicio de atención al cliente](guia-usuario/vender/gestionar-servicio-atencion-cliente/servicio-de-atencion-al-cliente.md)
+      * [Servicio de atención al cliente](guia-usuario/vender/gestionar-servicio-atencion-cliente/servicio-atencion-cliente.md)
       * [Mensajes predefinidos](guia-usuario/vender/gestionar-servicio-atencion-cliente/mensajes-predefinidos.md)
       * [Devoluciones de mercancía](guia-usuario/vender/gestionar-servicio-atencion-cliente/devoluciones-de-mercancia.md)
     * [Comprender las estadísticas](guia-usuario/vender/comprender-estadisticas.md)
