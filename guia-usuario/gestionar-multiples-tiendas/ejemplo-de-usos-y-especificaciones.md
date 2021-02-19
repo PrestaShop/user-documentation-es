@@ -2,18 +2,18 @@
 
 Ejemplo de usos y especificaciones del modo multitienda:
 
-* [Gestionar un catálogo en modo multitienda](ejemplo-de-usos-y-especificaciones-del-modo-multitienda.md#gestionar-un-catalogo-en-modo-multitienda)
-* [Intercambio de datos entre las tiendas](ejemplo-de-usos-y-especificaciones-del-modo-multitienda.md#intercambio-de-datos-entre-las-tiendas)
-  * [Duplicar datos entre tiendas](ejemplo-de-usos-y-especificaciones-del-modo-multitienda.md#duplicar-datos-entre-tiendas)
-  * [Compartir datos entre las tiendas y los grupos de tiendas](ejemplo-de-usos-y-especificaciones-del-modo-multitienda.md#compartir-datos-entre-las-tiendas-y-los-grupos-de-tiendas)
-  * [Compartir productos y categorías](ejemplo-de-usos-y-especificaciones-del-modo-multitienda.md#compartir-productos-y-categorias)
-  * [Compartir clientes y grupos de clientes](ejemplo-de-usos-y-especificaciones-del-modo-multitienda.md#compartir-clientes-y-grupos-de-clientes)
-  * [Compartir pedidos](ejemplo-de-usos-y-especificaciones-del-modo-multitienda.md#compartir-pedidos)
-  * [Utilizar un tema diferente para cada tienda o grupo de tiendas](ejemplo-de-usos-y-especificaciones-del-modo-multitienda.md#utilizar-un-tema-diferente-para-cada-tienda-o-grupo-de-tiendas)
-  * [Utilizar configuraciones específicas para cada tienda o grupo de tiendas](ejemplo-de-usos-y-especificaciones-del-modo-multitienda.md#utilizar-configuraciones-especificas-para-cada-tienda-o-grupo-de-tiendas)
-* [Gestionar páginas en modo multitienda](ejemplo-de-usos-y-especificaciones-del-modo-multitienda.md#gestionar-paginas-en-modo-multitienda)
-* [Gestionar descuentos en modo multitienda](ejemplo-de-usos-y-especificaciones-del-modo-multitienda.md#gestionar-descuentos-en-modo-multitienda)
-* [Multitienda y Servicio Web \(webservice\)](ejemplo-de-usos-y-especificaciones-del-modo-multitienda.md#multitienda-y-servicio-web-webservice)
+* [Gestionar un catálogo en modo multitienda](ejemplo-de-usos-y-especificaciones.md#gestionar-un-catalogo-en-modo-multitienda)
+* [Intercambio de datos entre las tiendas](ejemplo-de-usos-y-especificaciones.md#intercambio-de-datos-entre-las-tiendas)
+  * [Duplicar datos entre tiendas](ejemplo-de-usos-y-especificaciones.md#duplicar-datos-entre-tiendas)
+  * [Compartir datos entre las tiendas y los grupos de tiendas](ejemplo-de-usos-y-especificaciones.md#compartir-datos-entre-las-tiendas-y-los-grupos-de-tiendas)
+  * [Compartir productos y categorías](ejemplo-de-usos-y-especificaciones.md#compartir-productos-y-categorias)
+  * [Compartir clientes y grupos de clientes](ejemplo-de-usos-y-especificaciones.md#compartir-clientes-y-grupos-de-clientes)
+  * [Compartir pedidos](ejemplo-de-usos-y-especificaciones.md#compartir-pedidos)
+  * [Utilizar un tema diferente para cada tienda o grupo de tiendas](ejemplo-de-usos-y-especificaciones.md#utilizar-un-tema-diferente-para-cada-tienda-o-grupo-de-tiendas)
+  * [Utilizar configuraciones específicas para cada tienda o grupo de tiendas](ejemplo-de-usos-y-especificaciones.md#utilizar-configuraciones-especificas-para-cada-tienda-o-grupo-de-tiendas)
+* [Gestionar páginas en modo multitienda](ejemplo-de-usos-y-especificaciones.md#gestionar-paginas-en-modo-multitienda)
+* [Gestionar descuentos en modo multitienda](ejemplo-de-usos-y-especificaciones.md#gestionar-descuentos-en-modo-multitienda)
+* [Multitienda y Servicio Web \(webservice\)](ejemplo-de-usos-y-especificaciones.md#multitienda-y-servicio-web-webservice)
 
 ## Gestionar un catálogo en modo multitienda
 

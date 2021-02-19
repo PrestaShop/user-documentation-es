@@ -31,5 +31,5 @@ Transformar tu tienda PrestaShop en una multitienda es muy sencillo:
 * [Crear un nuevo grupo de tiendas](crear-nuevo-grupo-de-tiendas.md)
 * [Crear una nueva tienda](crear-nueva-tienda.md)
 * [Configurar la URL de una tienda](configurar-url-tienda.md)
-* [Ejemplo de usos y especificaciones del modo multitienda](ejemplo-de-usos-y-especificaciones-del-modo-multitienda.md)
+* [Ejemplo de usos y especificaciones del modo multitienda](ejemplo-de-usos-y-especificaciones.md)
 

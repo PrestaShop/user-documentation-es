@@ -8,5 +8,5 @@ Este capítulo contiene las siguientes secciones:
 * [Personalizar el Diseño de tu tienda](personalizar-diseno-tienda/)
 * [Gestionar Transporte](gestionar-transporte/)
 * [Gestionar Pagos](gestionar-pagos/)
-* [Abriéndote paso al Mercado Internacional](abriendote-paso-al-mercado-internacional/)
+* [Abriéndote paso al Mercado Internacional](mercado-internacional/)
 
