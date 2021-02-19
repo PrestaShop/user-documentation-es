@@ -112,7 +112,7 @@
         * [Permisos](guia-usuario/configurar-tienda/parametros-avanzados/equipo/permisos.md)
       * [Base de datos](guia-usuario/configurar-tienda/parametros-avanzados/base-de-datos/README.md)
         * [Gestor de consultas SQL](guia-usuario/configurar-tienda/parametros-avanzados/base-de-datos/gestor-de-consultas-sql.md)
-        * [Copia de seguridad de la Base de Datos](guia-usuario/configurar-tienda/parametros-avanzados/base-de-datos/copia-de-seguridad-de-la-base-de-datos.md)
+        * [Copia de seguridad de la Base de Datos](guia-usuario/configurar-tienda/parametros-avanzados/base-de-datos/copia-seguridad-base-de-datos.md)
       * [Registros/Logs](guia-usuario/configurar-tienda/parametros-avanzados/registros-logs.md)
       * [Webservice \(Servicio Web\)](guia-usuario/configurar-tienda/parametros-avanzados/servicio-web.md)
       * [Multitienda](guia-usuario/configurar-tienda/parametros-avanzados/multitienda.md)
