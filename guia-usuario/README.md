@@ -34,7 +34,7 @@ Capítulos de esta guía:
   * [Crear una nueva tienda](gestionar-multiples-tiendas/crear-nueva-tienda.md)
   * [Configurar la URL de una tienda](gestionar-multiples-tiendas/configurar-url-tienda.md)
   * [Ejemplo de usos y especificaciones del modo multitienda](gestionar-multiples-tiendas/ejemplo-de-usos-y-especificaciones.md)
-* [Cumplimiento de la legislación europea](cumplimiento-de-la-legislacion-europea.md)
+* [Cumplimiento de la legislación europea]()
 * [Navegando por el front-office](navegar-front-office.md)
 * [Cumplimiento de la legislación europea del RGPD](cumplimiento-rgpd.md)
 

@@ -231,7 +231,7 @@ Debes leer la documentación de cada uno de los módulos aquí presentados, para
         a tus clientes, en relaci&#xF3;n con tus diversas pol&#xED;ticas. El m&#xF3;dulo
         &quot;Cumplimiento normativo legal&quot; est&#xE1; aqu&#xED; para ayudarte.</td>
       <td
-      style="text-align:left">Por favor, lee la p&#xE1;gina &quot;<a href="cumplimiento-de-la-legislacion-europea.md">Cumplimiento de la legislaci&#xF3;n europea</a>&quot;
+      style="text-align:left">Por favor, lee la p&#xE1;gina &quot;<a href>Cumplimiento de la legislaci&#xF3;n europea</a>&quot;
         para saber m&#xE1;s sobre los cambios que debes hacer.
         <br />
         </td>

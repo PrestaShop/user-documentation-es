@@ -122,7 +122,6 @@
     * [Crear una nueva tienda](guia-usuario/gestionar-multiples-tiendas/crear-nueva-tienda.md)
     * [Configurar la URL de una tienda](guia-usuario/gestionar-multiples-tiendas/configurar-url-tienda.md)
     * [Ejemplo de usos y especificaciones del modo multitienda](guia-usuario/gestionar-multiples-tiendas/ejemplo-de-usos-y-especificaciones.md)
-  * [Cumplimiento de la legislación europea](guia-usuario/cumplimiento-de-la-legislacion-europea.md)
   * [Navegar por el front-office](guia-usuario/navegar-front-office.md)
   * [Cumplimiento de la legislación europea del RGPD](guia-usuario/cumplimiento-rgpd.md)
 
