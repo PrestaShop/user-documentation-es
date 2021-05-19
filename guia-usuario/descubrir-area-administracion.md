@@ -150,7 +150,7 @@ Cuando se comparan dos períodos, algunos de los bloques de contenido se actuali
 
 ### La columna izquierda
 
-![](../.gitbook/assets/54264922%20%281%29.png)De manera predeterminada, esta columna te muestra datos del **módulo Panel de actividad**, el cual ofrece las principales cifras estadísticas de la base de datos de tu tienda, de manera que puedas revisarlas y valorarlas de un simple vistazo: 
+![](../.gitbook/assets/54264922%20%281%29%20%281%29.png)De manera predeterminada, esta columna te muestra datos del **módulo Panel de actividad**, el cual ofrece las principales cifras estadísticas de la base de datos de tu tienda, de manera que puedas revisarlas y valorarlas de un simple vistazo: 
 
 * Visitantes en línea en los últimos 30 minutos.
 * Carritos de compra activos en los últimos 30 minutos.

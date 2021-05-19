@@ -26,7 +26,7 @@ By saying that this repository is synchronized with GitBook’s documentation, i
 
 ## **‌Contribution**
 
-Anyone is welcome to come by and contribute to translate, update, or write the 1.7 user documentation. Writing the user documentation requires using Git or GitHub, it works pretty much the same as a code contribution. Here are the instructions to follow:
+![](.gitbook/assets/improve-the-documentation-1-.png)
 
 ### If you want to work using GitHub and edit a file
 

@@ -39,7 +39,7 @@ Las URL amigables se han de establecer en la página de configuración de cada p
 
 Asegúrate de rellenar los campos para todos los idiomas disponibles en tu tienda: no sólo es inmensamente útil para los usuarios locales, sino también para los buscadores que pueden hacer uso de esta información local.
 
-![](../../../../.gitbook/assets/54265476.png)
+![](../../../../.gitbook/assets/54265476%20%281%29.png)
 
 Haz clic en el botón "Añadir una nueva página" para acceder al formulario de creación de URLs amigables. Estos son los campos que tendrás que rellenar:
 

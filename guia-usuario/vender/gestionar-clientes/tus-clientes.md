@@ -2,7 +2,7 @@
 
 La primera página bajo el menú "Clientes" te ofrece un listado de todos los usuarios registrados en tu tienda.
 
-![](../../../.gitbook/assets/54265167%20%281%29.png)
+![](../../../.gitbook/assets/54265167%20%281%29%20%281%29.png)
 
 Ésta te proporciona a vista de pájaro una visión general de todos tus clientes, con algunos detalles que puedes utilizar para ordenar y buscar cuentas:
 
