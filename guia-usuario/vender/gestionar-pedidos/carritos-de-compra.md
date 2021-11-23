@@ -17,10 +17,9 @@ Gestionar carritos abandonados
 
 Los carritos abandonados a menudo significan que se ha perdido una venta. La página "Carritos de compra" indica los carritos que no se han convertido finalmente en pedidos, y también le recuerda al cliente que todavía puede volver para finalizar su compra.
 
-Los carritos abandonados \(o "carritos fantasmas"\) tienen un enlace para ser eliminados al final de cada fila, mientras que los carritos que no disponen de vínculos de borrado son carritos procesados, por ejemplo, la compra ha sido confirmada por el cliente y debes enviarle los productos.
+Los carritos abandonados (o "carritos fantasmas") tienen un enlace para ser eliminados al final de cada fila, mientras que los carritos que no disponen de vínculos de borrado son carritos procesados, por ejemplo, la compra ha sido confirmada por el cliente y debes enviarle los productos.
 
-De manera predeterminada, es tu responsabilidad la de ponerte en contacto con el cliente con respecto al carrito abandonado. Puedes instalar el módulo "Retoma el contacto con tus clientes", el cual está disponible en la instalación predeterminada y que te permite enviar vales de descuento a aquellos clientes que han abandonado sus carritos, para darles las gracias por su pedido, o para agradecerles su fidelidad a los mejores clientes... Ten en cuenta que esto puede dar lugar a abusos: algunos clientes podrían abandonar los carritos a propósito para aprovecharse de los cupones de descuento.  
+De manera predeterminada, es tu responsabilidad la de ponerte en contacto con el cliente con respecto al carrito abandonado. Puedes instalar el módulo "Retoma el contacto con tus clientes", el cual está disponible en la instalación predeterminada y que te permite enviar vales de descuento a aquellos clientes que han abandonado sus carritos, para darles las gracias por su pedido, o para agradecerles su fidelidad a los mejores clientes... Ten en cuenta que esto puede dar lugar a abusos: algunos clientes podrían abandonar los carritos a propósito para aprovecharse de los cupones de descuento.\
 
 
 También puedes comprar el módulo "Módulo Recordatorio de carritos abandonados - Pro" de PrestaShop, para disponer de una herramienta más completa que la anterior: [https://addons.prestashop.com/es/remarketing-carritos-abandonados/16535-recordatorio-de-carritos-abandonados-pro.html](https://addons.prestashop.com/es/remarketing-carritos-abandonados/16535-recordatorio-de-carritos-abandonados-pro.html).
-

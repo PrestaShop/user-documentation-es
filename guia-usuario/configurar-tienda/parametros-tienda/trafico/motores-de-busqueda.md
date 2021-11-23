@@ -8,7 +8,7 @@ Esta página presenta una tabla de todos los motores de búsqueda que tu instala
 
 Aunque Google es el buscador más utilizado, hay muchos otros motores de búsqueda que tus visitantes podrían utilizar para encontrar tu tienda. Por lo tanto, también debes tener a estos en cuenta para recoger y analizar las consultas realizadas en ellos. Cuando un motor de búsqueda desconocido comience a atraer visitantes regularmente, deberás añadirlo a tu base de datos – de lo contrario, estos visitantes aparecerían marcados en tus estadísticas como procedentes de "otros motores de búsqueda", lo que no te será de utilidad.
 
-## Añadir un motor de búsqueda <a id="Motoresdeb&#xFA;squeda-A&#xF1;adirunmotordeb&#xFA;squeda"></a>
+## Añadir un motor de búsqueda <a href="motoresdebusqueda-anadirunmotordebusqueda" id="motoresdebusqueda-anadirunmotordebusqueda"></a>
 
 Es muy fácil añadir un motor de búsqueda a tu listado.
 
@@ -18,8 +18,8 @@ Supongamos que queremos añadir DuckDuckGo, un motor de búsqueda que respeta la
 
 1. Obtén la URL de referencia para la búsqueda. Por ejemplo, [http://duckduckgo.com/?q=zapatos+niños](http://duckduckgo.com/?q=zapatos+ni%C3%B1os)
 2. Toma tan sólo la parte del servidor, que es específica para este motor de búsqueda, y escribe está en el campo "Servidor". En nuestro caso, "duckduckgo".
-3. Encuentra la variable de consulta: 
+3. Encuentra la variable de consulta:\
+
    1. Encuentra la cadena de consulta. Esta debe ser una letra, seguida por un signo "=", seguido por la propia consulta, y cerradas con un carácter "&" o el final de la cadena. En nuestro caso, esta es "q=zapatos+niños".
    2. La variable de consulta es la letra anterior al signo "=". En nuestro caso: "q". Escribe está en el campo "$\_GET variable".
 4. Haz clic en el botón "Guardar", y de ahora en adelante, PrestaShop será capaz de reconocer a los visitantes provenientes desde DuckDuckGo.
-

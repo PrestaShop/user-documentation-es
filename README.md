@@ -20,13 +20,13 @@ Here are the links to the 5 other repositories:
 
 This repository is synchronized with GitBook, a tool that allows creating modern and intuitive documentation pages. You can find the PrestaShop Spanish repository [here](https://prestashop.gitbook.io/documentacion-espanola-para-prestashop-1-7/).
 
-Consequently, both interfaces \(GitBook and GitHub\) are open to contributions.
+Consequently, both interfaces (GitBook and GitHub) are open to contributions.
 
 By saying that this repository is synchronized with GitBook’s documentation, it means that edited contents are updated in real-time in GitHub and GitBook. If you change the content of any page on GitBook, your edits will be pushed to this repository. Conversely, commits pushed to this repository are imported on GitBook.
 
 ## **‌Contribution**
 
-![](.gitbook/assets/improve-the-documentation-1-.png)
+![](<.gitbook/assets/improve the documentation (1).png>)
 
 ### If you want to work using GitHub and edit a file
 
@@ -36,7 +36,7 @@ This option is particularly adapted if you are not used to working on GitHub yet
 2. Browse to the target file.
 3. Click the "Edit" button and make your changes in the editor.‌
 4. Once you are done, go to the bottom of the page, enter a name and a description and click on "Create a new branch for this commit and start a pull request."
-5. Finally, click on "Propose file change". GitHub will automatically create a new fork and branch on your own GitHub account, then suggest a pull request to this repository.  
+5. Finally, click on "Propose file change". GitHub will automatically create a new fork and branch on your own GitHub account, then suggest a pull request to this repository. &#x20;
 6. Once the pull request is submitted, just wait for the product content manager to come back to you.
 
 Please do not commit your changes directly. It is important to create a pull request so that your work can be proofread.
@@ -73,4 +73,3 @@ Once you have chosen the way to contribute that suits you best, you are ready to
 ## License
 
 Content from this documentation is licensed under the[ Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
-

@@ -14,7 +14,7 @@ PrestaShop viene con un tema predeterminado, el cual utiliza distintos tonos de 
 
 Si instalaste PrestaShop con sus datos de ejemplo, verás productos de prendas de vestir.
 
-Aunque el propietario de la tienda puede cambiar el tema del front-office en cualquier momento, gracias a la gran cantidad de temas disponibles en el sitio web de complementos de PrestaShop, \([http://addons.prestashop.com/](http://addons.prestashop.com/)\), en este capítulo nos basaremos tan sólo en el tema por defecto.
+Aunque el propietario de la tienda puede cambiar el tema del front-office en cualquier momento, gracias a la gran cantidad de temas disponibles en el sitio web de complementos de PrestaShop, ([http://addons.prestashop.com/](http://addons.prestashop.com)), en este capítulo nos basaremos tan sólo en el tema por defecto.
 
 Ten en cuenta que aquí estamos describiendo el tema con su configuración y módulos por defecto. La activación de otros módulos, o evidentemente el uso de otro tema, puede producir un cambio radicalmente distinto en la experiencia de compra.
 
@@ -30,21 +30,21 @@ La cabecera es una barra fina de contenido, accesible desde cualquiera de las p�
 
 Un fino contenedor con:
 
-* * Un enlace a la **página de contacto**.
-  * El **idioma** \(si hay más de un idioma disponible\). El cliente puede elegir el idioma en el que la tienda debe mostrar los textos.
-  * El selector de **monedas** \(si hay más de una moneda disponible\). El cliente podrá elegir la moneda en la cual la tienda debe mostrarle los precios. Esto es muy importante para comparar precios con otras tiendas internacionales.
-  * Un enlace a la **página de registro**. Cuando el cliente inicia sesión, se muestra su nombre y apellido como un enlace hacía su cuenta de cliente.  
+*
+  * Un enlace a la **página de contacto**.
+  * El **idioma** (si hay más de un idioma disponible). El cliente puede elegir el idioma en el que la tienda debe mostrar los textos.
+  * El selector de **monedas** (si hay más de una moneda disponible). El cliente podrá elegir la moneda en la cual la tienda debe mostrarle los precios. Esto es muy importante para comparar precios con otras tiendas internacionales.
+  *   Un enlace a la **página de registro**. Cuando el cliente inicia sesión, se muestra su nombre y apellido como un enlace hacía su cuenta de cliente.\
 
 
-    Una vez conectado, los clientes son dirigidos a la página "Tu cuenta" y se muestra un enlace para "Cerrar sesión".
-
-  * **Carrito \(0\)**. Un recordatorio rápido del estado actual del carrito de compra del cliente \(de manera predeterminada se muestra "\(0\)", lo que significa que el carrito está vacío\). A veces los clientes seleccionan artículos mientras navegan por la tienda, y se olvidan de ellos tras navegar por algunas páginas de la tienda. Por lo tanto, es fundamental ofrecerles una manera de hacerles recordar que estos productos continúan estando en el carrito.
+      Una vez conectado, los clientes son dirigidos a la página "Tu cuenta" y se muestra un enlace para "Cerrar sesión".
+  * **Carrito (0)**. Un recordatorio rápido del estado actual del carrito de compra del cliente (de manera predeterminada se muestra "(0)", lo que significa que el carrito está vacío). A veces los clientes seleccionan artículos mientras navegan por la tienda, y se olvidan de ellos tras navegar por algunas páginas de la tienda. Por lo tanto, es fundamental ofrecerles una manera de hacerles recordar que estos productos continúan estando en el carrito.
 
 Un contenedor más grande con:
 
-* **El logotipo de la tienda**. Un clic en el logotipo traslada al cliente a la página de inicio, desde cualquier lugar de la tienda. De manera predeterminada, el logotipo reza "Classic" \(o el nombre del tema predeterminado\): esto es un estimulante para que establezcas tu propio logotipo en lugar de mantener el de PrestaShop.
-* **El menú**. De forma predeterminada, muestra la categoría "Mujeres \(Women\)", y las subcategorías pertenecientes a este menú al posicionar el ratón sobre esta categoría. Para actualizar el menú con tus propias categorías, debes configurar el módulo "Menú principal".
-* **El motor de búsqueda**. Muchos clientes prefieren buscar un artículo específico a través del propio motor de búsqueda de la tienda, en lugar de navegar a través de todas las categorías de productos. En algunas tiendas en línea, esta es incluso la única forma de navegar por el contenido del sitio para la mayoría de los clientes. Este motor de búsqueda, es el módulo "Barra de búsqueda".  
+* **El logotipo de la tienda**. Un clic en el logotipo traslada al cliente a la página de inicio, desde cualquier lugar de la tienda. De manera predeterminada, el logotipo reza "Classic" (o el nombre del tema predeterminado): esto es un estimulante para que establezcas tu propio logotipo en lugar de mantener el de PrestaShop.
+* **El menú**. De forma predeterminada, muestra la categoría "Mujeres (Women)", y las subcategorías pertenecientes a este menú al posicionar el ratón sobre esta categoría. Para actualizar el menú con tus propias categorías, debes configurar el módulo "Menú principal".
+* **El motor de búsqueda**. Muchos clientes prefieren buscar un artículo específico a través del propio motor de búsqueda de la tienda, en lugar de navegar a través de todas las categorías de productos. En algunas tiendas en línea, esta es incluso la única forma de navegar por el contenido del sitio para la mayoría de los clientes. Este motor de búsqueda, es el módulo "Barra de búsqueda". &#x20;
 
 La cabecera raramente cambia durante el proceso de una compra.
 
@@ -60,29 +60,34 @@ El pie de página comienza con un pequeño contenedor que presenta dos cosas:
 
 El pie de página da acceso a páginas que podrían ser útiles para tus usuarios.
 
-* El bloque "Productos" contiene: 
+* El bloque "Productos" contiene:\
+
   * Tres enlaces a listas de productos:
     * **Ofertas**. Todas las promociones actuales.
     * **Novedades**. Artículos añadidos recientemente.
     * **Los más vendidos**. Los artículos más populares.
-* El bloque "Nuestra empresa" enlaza a páginas informativas: 
-  * * Entrega
+* El bloque "Nuestra empresa" enlaza a páginas informativas:\
+
+  *
+    * Entrega
     * Aviso Legal
     * Términos y Condiciones de uso
-    * Acerca de nosotros \(sobre nosotros\)
+    * Acerca de nosotros (sobre nosotros)
     * Pago seguro
     * Contáctenos
     * Mapa del sitio web, que ofrece un listado de todas las páginas existentes en tu tienda.
     * Tiendas
-* El bloque "Tu cuenta", contiene enlaces a las páginas principales del perfil del usuario \(o la página de autenticación\). El título "Tu cuenta" también es un enlace a la cuenta del cliente. 
-  * **Direcciones**. Un cliente puede añadir varias direcciones para diferentes opciones de entrega. ****
+* El bloque "Tu cuenta", contiene enlaces a las páginas principales del perfil del usuario (o la página de autenticación). El título "Tu cuenta" también es un enlace a la cuenta del cliente.\
+
+  * **Direcciones**. Un cliente puede añadir varias direcciones para diferentes opciones de entrega.\
+    ****
   * **Facturas por abono**. Se reciben cuando un pedido es cancelado o devuelto por el cliente. Al crear una factura por abono, se puede crear un cupón de descuento para que el cliente lo utilice en su próxima compra.
   * **Pedidos**. Todos los pedidos realizados en el pasado y actualmente en proceso.
   * **Información personal**. Nombre, apellido, dirección de correo electrónico, domicilio, número de teléfono, fecha de nacimiento: toda la información necesaria sobre un cliente.
-  * **Cupones de descuento**. Todos los códigos de los cupones que todavía no se han utilizado \(si los hay\).
+  * **Cupones de descuento**. Todos los códigos de los cupones que todavía no se han utilizado (si los hay).
 * El bloque "Información de la tienda", contiene la dirección, número de teléfono y dirección de correo electrónico de tu empresa.
 
-Ten en cuenta que todo el contenido puede ser modificado por el propietario de la tienda desde el propio panel de administración \(back-office\), ya sea a través de la configuración de preferencias o mediante la configuración del módulo.
+Ten en cuenta que todo el contenido puede ser modificado por el propietario de la tienda desde el propio panel de administración (back-office), ya sea a través de la configuración de preferencias o mediante la configuración del módulo.
 
 ### La columna izquierda
 
@@ -131,7 +136,7 @@ Algunas categorías pueden ofrecer una imagen de encabezado, con un mensaje de p
 
 **Clasificación de Productos**
 
-El listado de productos por categoría o marca puede ser ordenado por precio \(de más bajo a más caro, o de más caro a más bajo\), nombre \(de A a Z, o de Z a A\) o disponibilidad.
+El listado de productos por categoría o marca puede ser ordenado por precio (de más bajo a más caro, o de más caro a más bajo), nombre (de A a Z, o de Z a A) o disponibilidad.
 
 **Página del producto**
 
@@ -139,8 +144,8 @@ Aquí es donde toda la información introducida por el propietario de la tienda 
 
 Junto a las imágenes hay dos bloques:
 
-* Un bloque "Breve descripción \(resumen\)", que presenta los datos principales del producto actual.
-* El bloque "Añadir al carrito", con la posibilidad de elegir entre las distintas combinaciones disponibles \(definidas por el propietario\) y la cantidad solicitada.
+* Un bloque "Breve descripción (resumen)", que presenta los datos principales del producto actual.
+* El bloque "Añadir al carrito", con la posibilidad de elegir entre las distintas combinaciones disponibles (definidas por el propietario) y la cantidad solicitada.
 
 Debajo del bloque del carrito encontrarás un bloque de seguridad y para ofrecer confianza al cliente, donde podrás informar sobre las ventajas que tiene comprar en tu tienda, o para ser más transparente en tus políticas de pago y entrega.
 
@@ -158,7 +163,7 @@ Al hacer clic en el botón "Tramitar pedido", el usuario es redirigido a una sol
 1. **Información personal**. Donde se pide al cliente no registrado que inicie sesión o cree una cuenta. Este paso es omitido si el cliente ya ha iniciado sesión en la tienda. Sin embargo, todavía está disponible si el cliente desea iniciar sesión con otra cuenta.
 2. **Direcciones**. Donde se presenta al cliente sus direcciones registradas en PrestaShop, y en la que tiene que elegir el sitio donde se realizará la entrega de su pedido.
 3. **Método de envío**. Donde el cliente selecciona las opciones de envío.
-4. **Pago**. Donde se presenta al cliente el precio final del pedido \(ahora incluido el precio de envío\), y se le pide que seleccione un método de pago.
+4. **Pago**. Donde se presenta al cliente el precio final del pedido (ahora incluido el precio de envío), y se le pide que seleccione un método de pago.
 
 El cliente puede volver a cualquier paso anterior, haciendo clic sobre su título.
 
@@ -179,7 +184,7 @@ Una vez registrado, el cliente es redireccionado a la página "Mi cuenta", donde
 
 Entre las opciones disponibles se encuentra "Añadir mi primera dirección". Esta será la dirección por defecto para este cliente - puede haber algunas más.
 
-Si el cliente sólo tiene una dirección registrada, ésta será utilizada para el envío y la dirección de facturación. Durante el proceso de pedido, el cliente puede optar por utilizar una dirección diferente para la dirección de facturación, y crear esta nueva dirección sobre la marcha. 
+Si el cliente sólo tiene una dirección registrada, ésta será utilizada para el envío y la dirección de facturación. Durante el proceso de pedido, el cliente puede optar por utilizar una dirección diferente para la dirección de facturación, y crear esta nueva dirección sobre la marcha.&#x20;
 
 ## Compra de un producto
 
@@ -189,27 +194,27 @@ Este proceso de compra es denominado un embudo de conversión porque aquí es do
 
 Este proceso se inicia cuando el cliente hace clic en el botón "Tramitar pedido" del resumen del carrito y sigue siempre la misma secuencia de pantallas:
 
-1. _\(si el visitante no ha ingresado a su cuenta\)_ Se mostrará la pantalla de autenticación, donde el visitante puede acceder a la página de creación de cuenta o ingresar a esta. 
-2. La página de la dirección de entrega. Si la cuenta del usuario no tiene registrada ninguna dirección de entrega, el cliente es dirigido directamente al formulario de creación de la dirección.
+1. _(si el visitante no ha ingresado a su cuenta)_ Se mostrará la pantalla de autenticación, donde el visitante puede acceder a la página de creación de cuenta o ingresar a esta.\
 
-   Dos direcciones son necesarias para un pedido:
+2.  La página de la dirección de entrega. Si la cuenta del usuario no tiene registrada ninguna dirección de entrega, el cliente es dirigido directamente al formulario de creación de la dirección.
 
-   * La dirección de entrega, donde se enviará el pedido.
-   * La dirección de facturación, la cual está ligada al método de pago.
+    Dos direcciones son necesarias para un pedido:
 
-   Si el cliente necesita que el pedido se facture a una dirección distinta a la de entrega, puede hacer clic en el enlace "Información de facturación diferente de la dirección de envío", y seleccionar una dirección de las registradas previamente o crear una nueva.
+    * La dirección de entrega, donde se enviará el pedido.
+    * La dirección de facturación, la cual está ligada al método de pago.
 
-   Si la información de una dirección está incorrecta, el cliente puede utilizar el enlace "Modificar" para corregirla.
+    Si el cliente necesita que el pedido se facture a una dirección distinta a la de entrega, puede hacer clic en el enlace "Información de facturación diferente de la dirección de envío", y seleccionar una dirección de las registradas previamente o crear una nueva.
 
-3. La página de envío. Aquí es donde el cliente puede elegir entre diferentes opciones de envíos y embalajes:
-   * Dependiendo de las opciones que la tienda pueda ofrecer, el cliente puede elegir un embalaje reciclado y envolver en papel de regalo \(con una nota especial opcional\)
+    Si la información de una dirección está incorrecta, el cliente puede utilizar el enlace "Modificar" para corregirla.
+3. La página de envío.\
+   Aquí es donde el cliente puede elegir entre diferentes opciones de envíos y embalajes:
+   * Dependiendo de las opciones que la tienda pueda ofrecer, el cliente puede elegir un embalaje reciclado y envolver en papel de regalo (con una nota especial opcional)
    * El cliente DEBE elegir un transportista con el fin de alcanzar el siguiente paso.
-4. La página de pago.  
-   El cliente puede escoger entre muchas opciones de pago, dependiendo de las que el propietario de la tienda haya establecido. El cliente hará clic en el método elegido, y en función del método, será enviado hacia el controlador de terceros seleccionado o continuará en una de las páginas de PrestaShop donde puede introducir los detalles necesarios como validación, antes de que se le muestre la información para el cheque, o la transferencia bancaria.
+4.  La página de pago.\
+    El cliente puede escoger entre muchas opciones de pago, dependiendo de las que el propietario de la tienda haya establecido. El cliente hará clic en el método elegido, y en función del método, será enviado hacia el controlador de terceros seleccionado o continuará en una de las páginas de PrestaShop donde puede introducir los detalles necesarios como validación, antes de que se le muestre la información para el cheque, o la transferencia bancaria.
 
-   Cheque y transferencia bancaria son instalados por defecto, pero PrestaShop facilita ofrecer pagos a través de eBay, Hipay u otros métodos de pago de terceros. Consulta los módulos instalados por defecto en el back-office de PrestaShop, o visita el marketplace PrestaShop Addons para obtener más módulos: [http://addons.prestashop.com/](http://addons.prestashop.com/.Una).
+    Cheque y transferencia bancaria son instalados por defecto, pero PrestaShop facilita ofrecer pagos a través de eBay, Hipay u otros métodos de pago de terceros. Consulta los módulos instalados por defecto en el back-office de PrestaShop, o visita el marketplace PrestaShop Addons para obtener más módulos: [http://addons.prestashop.com/](http://addons.prestashop.com/.Una).
 
-   El cliente debe estar de acuerdo con los términos de servicio de la tienda antes de completar la compra y validar el pedido. Lo que se realiza haciendo clic en el botón "Pedido con obligación de pago".
-
-5. Una vez que el cliente ha validado la información introducida, se muestra la página de resumen de la compra. Ésta se titula "Tu pedido está confirmado". Dependiendo del método de pago elegido, se debe proporcionar alguna información final al cliente, junto con una notificación de que se le ha enviado un correo electrónico de confirmación junto con un enlace a la página de soporte al cliente.
-
+    El cliente debe estar de acuerdo con los términos de servicio de la tienda antes de completar la compra y validar el pedido. Lo que se realiza haciendo clic en el botón "Pedido con obligación de pago".
+5. Una vez que el cliente ha validado la información introducida, se muestra la página de resumen de la compra.\
+   Ésta se titula "Tu pedido está confirmado". Dependiendo del método de pago elegido, se debe proporcionar alguna información final al cliente, junto con una notificación de que se le ha enviado un correo electrónico de confirmación junto con un enlace a la página de soporte al cliente.

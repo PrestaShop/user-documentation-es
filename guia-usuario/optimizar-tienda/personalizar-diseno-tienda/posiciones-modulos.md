@@ -9,18 +9,18 @@ Posiciones de los módulos en el front-office:
 * [Trasplantar un módulo modificando su código](posiciones-modulos.md#trasplantar-un-modulo-modificando-su-codigo)
   * [Widgets](posiciones-modulos.md#widgets)
 
-Un módulo puede tener dos aspectos: uno en el back-office \(sus opciones, o incluso su pantalla de configuración\), y el otro en el front-office. La parte front-office corresponde a cómo y dónde se mostrará el módulo en tu tema.
+Un módulo puede tener dos aspectos: uno en el back-office (sus opciones, o incluso su pantalla de configuración), y el otro en el front-office. La parte front-office corresponde a cómo y dónde se mostrará el módulo en tu tema.
 
-La posición de un módulo en tu tema puede ser cambiada, porque es posible que desees que el bloque de un módulo esté posicionado más arriba \(o más abajo\) en la página que otros. En la jerga PrestaShop, a esta acción se la denomina "trasplante", y se realiza mediante la herramienta disponible en la página "Posiciones de los módulos", bajo el menú "Diseño". En realidad, ésta te permite conectar un módulo a uno de los muchos hooks disponibles en el tema actual, sin necesidad de escribir ningún código.
+La posición de un módulo en tu tema puede ser cambiada, porque es posible que desees que el bloque de un módulo esté posicionado más arriba (o más abajo) en la página que otros. En la jerga PrestaShop, a esta acción se la denomina "trasplante", y se realiza mediante la herramienta disponible en la página "Posiciones de los módulos", bajo el menú "Diseño". En realidad, ésta te permite conectar un módulo a uno de los muchos hooks disponibles en el tema actual, sin necesidad de escribir ningún código.
 
-La página "Posiciones de los módulos" te muestra todos los hooks \(ganchos\) disponibles, así como los módulos correspondientes que están enganchados a ellos. Muchos están vacíos por defecto, pero la mayoría utilizan fácilmente una docena de módulos.
+La página "Posiciones de los módulos" te muestra todos los hooks (ganchos) disponibles, así como los módulos correspondientes que están enganchados a ellos. Muchos están vacíos por defecto, pero la mayoría utilizan fácilmente una docena de módulos.
 
 ![](../../../.gitbook/assets/54265268.png)
 
-En la parte superior de la página, un menú desplegable te permite mostrar sólo el hook en el que estás interesado.  
+En la parte superior de la página, un menú desplegable te permite mostrar sólo el hook en el que estás interesado.\
 De forma predeterminada, la lista sólo muestra los hooks en los cuales puedes posicionar módulos. Al marcar la casilla "Mostrar hooks no posicionables" se mostrarán todos los hooks, incluso aquellos en donde no puedes colocar nada.
 
-La cabecera de la tabla para cada hook muestra el nombre del hook, su nombre técnico \(para algunos de ellos, una rápida descripción\), y su número de módulos conectados. La tabla muestra los módulos que están conectados a ese hook.
+La cabecera de la tabla para cada hook muestra el nombre del hook, su nombre técnico (para algunos de ellos, una rápida descripción), y su número de módulos conectados. La tabla muestra los módulos que están conectados a ese hook.
 
 Los módulos son mostrados en el orden en el que aparecen en el hook.
 
@@ -29,7 +29,8 @@ Los módulos son mostrados en el orden en el que aparecen en el hook.
 Tienes dos maneras de cambiar la posición de un módulo dentro de un hook:
 
 * Haciendo clic en las flechas arriba o abajo. La página se actualizará y mostrará el nuevo orden.
-* Arrastrando y soltando el módulo a la posición deseada: 
+* Arrastrando y soltando el módulo a la posición deseada:\
+
   1. Coloca el cursor del ratón entre las flechas de movimiento y el nombre del módulo para que este cambie a un cursor de "movimiento de elementos".
   2. Haz clic con el botón derecho del ratón y manténlo presionado, mientras mueves el cursor del ratón a la fila / posición deseada: el módulo pasará a ocupar la fila / posición correspondiente.
   3. Suelta el botón derecho del ratón: para guardar la nueva posición del módulo.
@@ -55,14 +56,15 @@ El proceso de trasplante tiene su propia interfaz:
 2. Haz clic en el botón "Insertar un hook" situado en la parte superior derecha. La interfaz de trasplante de módulos, aparecerá en pantalla.
 3. En la lista desplegable "Módulo", selecciona el módulo que deseas trasplantar.
 4. En la lista desplegable "Insertar hook en", selecciona el lugar donde quieres trasplantar el módulo. Hay muchos hooks disponibles. Puedes cambiar tu decisión más tarde si es necesario.
-5. En el campo "Excepciones", escribe el nombre del archivo\(s\) correspondiente\(s\) a las páginas en las que no deseas que el módulo aparezca. Puedes realizar una selección múltiple, haciendo clic en los nombres de archivo mientras mantienes pulsada la tecla Ctrl. Puedes anular la selección de los archivos de la misma manera: Ctrl + clic.
+5. En el campo "Excepciones", escribe el nombre del archivo(s) correspondiente(s) a las páginas en las que no deseas que el módulo aparezca.\
+   Puedes realizar una selección múltiple, haciendo clic en los nombres de archivo mientras mantienes pulsada la tecla Ctrl. Puedes anular la selección de los archivos de la misma manera: Ctrl + clic.
 6. No olvides guardar los cambios realizados.
 
 ![](../../../.gitbook/assets/54265271.png)
 
 El menú desplegable "Insertar hook en" te ofrece información sobre dónde puedes colocar el módulo.
 
-A pesar de que en la lista desplegable "Insertar hook en" ofrece una vista global de los hooks disponibles, no siempre puede ser del todo esclarecedora, sobre todo cuando se trata de encontrar un punto en particular donde insertar tu módulo. No dudes en probar con otro hook, si el resultado de tu elección no es el que esperabas.  
+A pesar de que en la lista desplegable "Insertar hook en" ofrece una vista global de los hooks disponibles, no siempre puede ser del todo esclarecedora, sobre todo cuando se trata de encontrar un punto en particular donde insertar tu módulo. No dudes en probar con otro hook, si el resultado de tu elección no es el que esperabas.\
 La lista te ofrece algunos detalles más: algunos hooks tienen tras su nombre una breve descripción de lo que hacen, por ejemplo, "Añadir campos al formulario 'atributo valor'" para `displayAttributeForm`. Examínalos a todos con detenimiento con el fin de elegir el hook correcto.
 
 ## Editar un módulo trasplantado
@@ -77,7 +79,7 @@ Siempre debes comprobar el front-office de tu tienda, para asegurarte de que el 
 
 ## Eliminar un módulo de un hook
 
-Hay dos maneras de eliminar un módulo\(s\) de un hook:
+Hay dos maneras de eliminar un módulo(s) de un hook:
 
 * Eliminar un sólo módulo: haz clic en el icono del bote de basura situado a la derecha de la fila del módulo.
 * Eliminar un lote de módulos: selecciona los módulos marcando las casillas situadas a la derecha de la fila, y luego haz clic en el botón "Eliminar hooks seleccionados", que encontrarás tanto en la parte superior como en la parte inferior del listado de hooks.
@@ -90,19 +92,19 @@ Algunos módulos no pueden ser trasplantados en otras secciones del front-office
 
 Por ejemplo, algunos módulos contienen plantillas para la visualización de la columna y de la cabecera, mientras que otros sólo tienen un archivo de plantilla para hacerlo funcionar en la sección cabecera de la página.
 
-Si deseas mostrar módulos en una posición para la cual no fue programado, debes editar los archivos de su plantilla.  
+Si deseas mostrar módulos en una posición para la cual no fue programado, debes editar los archivos de su plantilla.\
 Los módulos más complejos, también pueden ser modificados para que aparezcan en otras secciones de la página, pero puede ser que tengan que ser reprogramados parcialmente para que su diseño sea funcional en la nueva ubicación.
 
 Para personalizar la posibilidad de trasplantar un módulo, debes dar a este la función PHP exacta para el hook de destino. Por ejemplo, para un módulo que tiene esta función:
 
-```text
+```
 function hookTop($params) { ... } 
 ```
 
-Por ejemplo, para trasplantar este bloque a la columna derecha, necesitas añadir la función `hookRightColumn()`:  
+Por ejemplo, para trasplantar este bloque a la columna derecha, necesitas añadir la función `hookRightColumn()`:\
 
 
-```text
+```
 function hookRightColumn($params) { ... } 
 ```
 
@@ -110,9 +112,8 @@ Una vez hecho esto, debes escribir el código que mostrará el contenido de la p
 
 ### Widgets
 
-PrestaShop 1.7 ha introducido un nuevo sistema para trasplantar módulos: widgets. Gracias a los widgets, un módulo puede ser utilizado y trasplantado a cualquier hook visible.  
+PrestaShop 1.7 ha introducido un nuevo sistema para trasplantar módulos: widgets. Gracias a los widgets, un módulo puede ser utilizado y trasplantado a cualquier hook visible.\
 
 
-Los widgets funcionan solamente con módulos desarrollados para la versión 1.7 \(en módulos de PrestaShop, los nombres técnicos de estos módulos comienzan con "ps\_"\), y no pueden ser utilizados por todos los módulos.  
+Los widgets funcionan solamente con módulos desarrollados para la versión 1.7 (en módulos de PrestaShop, los nombres técnicos de estos módulos comienzan con "ps\_"), y no pueden ser utilizados por todos los módulos.\
 Puedes obtener más información sobre widgets, en el siguiente enlace: [http://developers.prestashop.com/module/40-Widgets/widget.html?highlight=widget](http://developers.prestashop.com/module/40-Widgets/widget.html?highlight=widget)
-

@@ -2,7 +2,7 @@
 
 PrestaShop presenta un amplio e intuitivo panel de administración de usuario, ofreciéndote cientos de funcionalidades estándares que pueden ser adaptadas o personalizadas con el fin de responder a todas tus necesidades.
 
-Esta guía del usuario te ayudará a familiarizarte con todas las funcionalidades de PrestaShop. A lo largo de esta guía también aprenderás a gestionar eficazmente tu sitio PrestaShop. Si bien la mayor parte del texto de esta guía, está destinado a los propietarios de tiendas, el primer capítulo es una introducción a la interfaz front-office, la cual puede ser útil a todos los usuarios. 
+Esta guía del usuario te ayudará a familiarizarte con todas las funcionalidades de PrestaShop. A lo largo de esta guía también aprenderás a gestionar eficazmente tu sitio PrestaShop. Si bien la mayor parte del texto de esta guía, está destinado a los propietarios de tiendas, el primer capítulo es una introducción a la interfaz front-office, la cual puede ser útil a todos los usuarios.&#x20;
 
 Puedes publicar todas tus dudas y preguntas directamente en nuestro foro: [http://www.prestashop.com/forums/](http://www.prestashop.com/forums/)
 
@@ -34,7 +34,6 @@ Capítulos de esta guía:
   * [Crear una nueva tienda](gestionar-multiples-tiendas/crear-nueva-tienda.md)
   * [Configurar la URL de una tienda](gestionar-multiples-tiendas/configurar-url-tienda.md)
   * [Ejemplo de usos y especificaciones del modo multitienda](gestionar-multiples-tiendas/ejemplo-de-usos-y-especificaciones.md)
-* [Cumplimiento de la legislación europea]()
+* [Cumplimiento de la legislación europea](broken-reference)
 * [Navegando por el front-office](navegar-front-office.md)
 * [Cumplimiento de la legislación europea del RGPD](cumplimiento-rgpd.md)
-
