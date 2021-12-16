@@ -34,7 +34,7 @@ Ten en cuenta que, si tu tienda ya ha sido indexada por Google o cualquier otro 
 
 En la parte inferior de la página "SEO y URLs" hay tres secciones con opciones adicionales: Configuración de las URLs, Establecer URL de la tienda y Esquema de URLs. Más abajo encontrarás una explicación de estas opciones.
 
-## Añadir una nueva URL amigable <a href="seoyurls-anadirunanuevaurlamigable" id="seoyurls-anadirunanuevaurlamigable"></a>
+## Añadir una nueva URL amigable <a href="#seoyurls-anadirunanuevaurlamigable" id="seoyurls-anadirunanuevaurlamigable"></a>
 
 Las URL amigables se han de establecer en la página de configuración de cada producto, categoría, página de contenido estático... Esta página de creación tan solamente es útil para algunas páginas automáticas, así que generalmente no tendrás que preocuparte de esta opción.
 
@@ -50,11 +50,11 @@ Haz clic en el botón "Añadir una nueva página" para acceder al formulario de 
 * **Meta palabras clave**. Palabras clave que definan a la página. Éstas son importantes para un buen posicionamiento en los buscadores. Puedes introducir varias: teclea la palabra, pulsa la tecla Enter, y observarás cómo la etiqueta queda encapsulada en el interior de un bloque azul, acompañada de un pequeño icono de una cruz por si deseas eliminarla.
 * **Reescritura URL**. Aquí es donde debes establecer la URL amigable. Asegúrate que esta sea corta y descriptiva, y reemplaza los espacios (" ") por guiones ("-").
 
-## Configurar URLs <a href="seoyurls-configurarurls" id="seoyurls-configurarurls"></a>
+## Configurar URLs <a href="#seoyurls-configurarurls" id="seoyurls-configurarurls"></a>
 
 Las opciones principales para las URLs amigables:
 
-*   **URL amigable**. Cambia esta opción **si sabes que tu servidor **permite la reescritura URL. Si no, déjala en "No".
+*   **URL amigable**. Cambia esta opción **si sabes que tu servidor** permite la reescritura URL. Si no, déjala en "No".
 
     Si lees un mensaje como "_La reescritura URL (mod\_rewrite) no está activa en tu servidor o no es posible comprobar la configuración del servidor. Si deseas utilizar URLs amigables debes activar este módulo_". En este caso, PrestaShop no puede detectar la configuración del servidor, pero eso no significa que está característica no funcione. Deberás comprobarlo por tí mismo.
 * **URL acentuada**. PrestaShop es ahora capaz de producir URLs con caracteres especiales, para los productos con nombres no ASCII. Puedes desactivar esta opción desde aquí.
@@ -73,7 +73,7 @@ Las opciones principales para las URLs amigables:
 
 En versiones previas de PrestaShop, tenías que generar manualmente un archivo `.htaccess` tras habilitar las URLs amigables. Este ya no es el caso, ya que desde la versión 1.5: el archivo `.htaccess` es gestionado por PrestaShop, así no tienes que preocuparte de esto.
 
-## Establecer URL de la tienda <a href="seoyurls-establecerurldelatienda" id="seoyurls-establecerurldelatienda"></a>
+## Establecer URL de la tienda <a href="#seoyurls-establecerurldelatienda" id="seoyurls-establecerurldelatienda"></a>
 
 En esta sección, puedes ver y editar algunos de los ajustes predeterminados del servidor:
 
@@ -84,7 +84,7 @@ En esta sección, puedes ver y editar algunos de los ajustes predeterminados del
 
 No debes modificar estos campos sin saber exactamente lo que estás haciendo. Un error podría provocar que tu tienda deje de estar accesible.
 
-## Esquema de URLs <a href="seoyurls-esquemadeurls" id="seoyurls-esquemadeurls"></a>
+## Esquema de URLs <a href="#seoyurls-esquemadeurls" id="seoyurls-esquemadeurls"></a>
 
 **Novedad en Prestashop 1.6**.
 
@@ -99,7 +99,7 @@ Ocho campos están disponibles de forma predeterminada, y cada uno de ellos est�
 
 Una vez que hayas actualizado los campos, no te olvides de guardar los cambios que has realizado. Haz clic en el botón "Guardar" en la sección "Establecer URL" para regenerar su archivo `.htaccess`, lo cual es necesario para tus URLs amigables.
 
-## Generación de archivos Robots <a href="seoyurls-generaciondearchivosrobots" id="seoyurls-generaciondearchivosrobots"></a>
+## Generación de archivos Robots <a href="#seoyurls-generaciondearchivosrobots" id="seoyurls-generaciondearchivosrobots"></a>
 
 El archivo `robots.txt` restringe el acceso a un sitio por parte de los robots de los motores de búsqueda que rastrean la Web. Estos robots están automatizados y, antes de acceder a las páginas de un sitio, verifican si existe un archivo nombrado como `robots.txt` que les impida el acceso a determinadas páginas. El archivo `robots.txt` solo es necesario si tu sitio incluye contenido que no deseas que los motores de búsqueda indexen.
 

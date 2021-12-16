@@ -5,7 +5,7 @@ En esta página, puedes instalar, desinstalar, configurar y actualizar cada uno 
 
 ![](../../../../.gitbook/assets/54265243.png)
 
-## El listado de módulos <a href="modulosinstalados-ellistadodemodulos" id="modulosinstalados-ellistadodemodulos"></a>
+## El listado de módulos <a href="#modulosinstalados-ellistadodemodulos" id="modulosinstalados-ellistadodemodulos"></a>
 
 Este listado te permite encontrar rápidamente el módulo que deseas configurar o desactivar.
 
@@ -27,7 +27,7 @@ Si deseas encontrar rápidamente un módulo, puedes buscar un módulo específic
   * **Categorías**. A la izquierda se muestra un listado de todas las categorías de módulos, con el número de módulos para cada uno entre paréntesis. Haz clic en una categoría para visualizar los módulos de esta categoría.
   * **Mostrar todos los módulos.** Permite elegir entre módulos activados y desactivados. Los módulos activados son los únicos que se pueden configurar, de ahí la importancia de este selector.
   * **Instalados y no instalados**. La mayoría de las veces, tendrás que realizar una acción sobre un módulo instalado, o instalar uno nuevo. Este filtro es el más comúnmente utilizado.
-  * **Último acceso. **Si frecuentemente utilizas los mismos módulos, esta opción facilitará la búsqueda de los módulos más recientes con los que has estado trabajando.
+  * **Último acceso.** Si frecuentemente utilizas los mismos módulos, esta opción facilitará la búsqueda de los módulos más recientes con los que has estado trabajando.
   * **Nombre**. Ordena los módulos por orden alfabético, de A a Z.\
 
 
@@ -48,7 +48,7 @@ La diferencia es que al desactivar un módulo mantiene tu configuración de segu
 
 Por lo tanto, sólo debes desinstalar un módulo si no te preocupe tus datos, o si está seguro de que no lo necesitarás nunca más.
 
-## Acciones que podemos realizar sobre los módulos <a href="modulosinstalados-accionesquepodemosrealizarsobrelosmodulos" id="modulosinstalados-accionesquepodemosrealizarsobrelosmodulos"></a>
+## Acciones que podemos realizar sobre los módulos <a href="#modulosinstalados-accionesquepodemosrealizarsobrelosmodulos" id="modulosinstalados-accionesquepodemosrealizarsobrelosmodulos"></a>
 
 Estas son las acciones disponibles, dependiendo del estado del módulo:
 
@@ -72,7 +72,7 @@ Estas son las acciones disponibles, dependiendo del estado del módulo:
 
 Estas acciones se pueden realizar individualmente sobre cada módulo, o en masa gracias al menú "Acciones masivas" de la derecha.
 
-### Desinstalar un módulo <a href="modulosinstalados-desinstalarunmodulo" id="modulosinstalados-desinstalarunmodulo"></a>
+### Desinstalar un módulo <a href="#modulosinstalados-desinstalarunmodulo" id="modulosinstalados-desinstalarunmodulo"></a>
 
 **¡Nunca elimines un módulo borrando su carpeta directamente desde un cliente FTP!**. Deja a PrestaShop hacerse cargo de esto.
 

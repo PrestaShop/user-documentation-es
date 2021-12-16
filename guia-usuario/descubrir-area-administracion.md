@@ -26,7 +26,7 @@ En la parte superior del back-office se encuentra una barra de color blanco que 
 * **Campo de búsqueda con lista desplegable**. Te permite realizar búsquedas dentro del contenido de tu tienda, tanto de datos de información como de funcionalidades.
 * **Modo de depuración** (opcional). Si estableces tu tienda en el modo de depuración, te mostrará un icono para recordarte que este modo está activado.
 * **Enlace "Nombre de la tienda"**. Abre en una nueva pestaña del navegador, el front-end de tu tienda.
-* **Icono campana y número. **Indica el número de nuevas notificaciones, que por defecto mostrarán los últimos pedidos realizados en tu tienda.
+* **Icono campana y número.** Indica el número de nuevas notificaciones, que por defecto mostrarán los últimos pedidos realizados en tu tienda.
   * **Pedidos**. Abre un panel presentando los nuevos pedidos recibidos desde la última vez que hiciste clic en este icono. Desde aquí, puedes visualizar los detalles de uno de estos nuevos pedidos, o ir a la página que muestra el listado completo de pedidos.
   * **Clientes**. Abre un panel que presenta los últimos clientes registrados. Desde aquí, puedes visualizar los detalles de uno de estos nuevos clientes, o ir a la página que muestra el listado completo de clientes.
   * **Mensajes**. Abre un panel que presenta el último mensaje recibido desde el Servicio al cliente. Desde aquí, puedes visualizar los detalles de uno de estos nuevos mensajes, o ir a la página que muestra el listado completo de mensajes recibidos.

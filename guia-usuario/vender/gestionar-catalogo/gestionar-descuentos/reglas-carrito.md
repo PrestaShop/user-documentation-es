@@ -30,13 +30,13 @@ La página "Reglas del carrito" muestra un listado de las reglas del carrito y c
 
 ![](../../../../.gitbook/assets/54265128.png)
 
-## Crear una nueva Regla de Carrito <a href="reglasdelcarrito-crearunanuevaregladecarrito" id="reglasdelcarrito-crearunanuevaregladecarrito"></a>
+## Crear una nueva Regla de Carrito <a href="#reglasdelcarrito-crearunanuevaregladecarrito" id="reglasdelcarrito-crearunanuevaregladecarrito"></a>
 
 Un cupón de descuento puede ser creado de manera automática tras la devolución de un producto, pero también puedes crearlo en cualquier momento de forma manual, y especificar con detalle sus propiedades.
 
 El formulario de creación muestra tres pestañas, que te permite, precisamente, construir nuevas reglas y cupones.
 
-### Pestaña Información <a href="reglasdelcarrito-pestanainformacion" id="reglasdelcarrito-pestanainformacion"></a>
+### Pestaña Información <a href="#reglasdelcarrito-pestanainformacion" id="reglasdelcarrito-pestanainformacion"></a>
 
 La primera pestaña, "Información", contiene los identificadores de la regla y los ajustes principales.
 
@@ -56,7 +56,7 @@ La primera pestaña, "Información", contiene los identificadores de la regla y 
 * **Prioridad**. Si un cliente (o grupo de clientes) tiene para utilizar más de un cupón, o si más de un cupón puede ser aplicado a un pedido, PrestaShop aplicará el más adecuado por orden alfabético. Puedes cambiar ese orden, proporcionándole una prioridad más baja a tu cupón. De manera predeterminada, todos ellos tienen prioridad 1. Si estableces este a un número más alto, el cupón se aplicará tras utilizar los cupones con un número inferior.
 * **Estado**. Puedes desactivar y activar una regla cada vez que lo consideres necesario.
 
-### Pestaña Condiciones <a href="reglasdelcarrito-pestanacondiciones" id="reglasdelcarrito-pestanacondiciones"></a>
+### Pestaña Condiciones <a href="#reglasdelcarrito-pestanacondiciones" id="reglasdelcarrito-pestanacondiciones"></a>
 
 La segunda pestaña, "Condiciones", contiene un amplio conjunto de posibilidades, que te permite especificar de manera precisa quién debe beneficiarse de esta regla.
 
@@ -97,7 +97,7 @@ Puedes añadir tantas reglas dentro de una selección como sea necesario. Estas 
 
 Las selecciones de productos funcionan de manera independiente, puedes añadir tantas como sea necesario, y éstas no influyen unas con otras. Esto te permite crear una amplia gama de productos a los que se aplicará la regla de carrito.
 
-### Pestaña Acciones <a href="reglasdelcarrito-pestanaacciones" id="reglasdelcarrito-pestanaacciones"></a>
+### Pestaña Acciones <a href="#reglasdelcarrito-pestanaacciones" id="reglasdelcarrito-pestanaacciones"></a>
 
 La tercera y última pestaña, "Acciones", te permite establecer en que consiste realmente el descuento.
 
@@ -114,7 +114,7 @@ La tercera y última pestaña, "Acciones", te permite establecer en que consiste
   * **Producto específico**. Puedes elegir a qué producto se debe aplicar el descuento: escribe las primeras letras del producto y selecciónalo en la lista de nombres coincidentes.
   * **Producto más barato**. Sólo disponible para la opción "Porcentaje (%)". El descuento se aplica al producto más barato del pedido.
   * **Producto(s) seleccionado(s)**. Sólo disponible para la opción "Porcentaje (%)". El descuento se aplica a la selección de productos que podría haber definido en el paso anterior.
-* **Excluir productos con descuento**.** **_Novedad en PrestaShop 1.7_. De manera predeterminada. El cupón de descuento se aplica a cualquier tipo de producto, tenga o no algún tipo de descuento aplicado. Al activar esta opción, el cupón que estás creando no se aplicará a un producto o una combinación si ya está en oferta.
+* **Excluir productos con descuento**. **** _Novedad en PrestaShop 1.7_. De manera predeterminada. El cupón de descuento se aplica a cualquier tipo de producto, tenga o no algún tipo de descuento aplicado. Al activar esta opción, el cupón que estás creando no se aplicará a un producto o una combinación si ya está en oferta.
 * **Enviar un regalo**. Puedes optar por ofrecer un regalo bajo ciertas condiciones (y mantener el descuento). Al seleccionar esta opción, un nuevo campo aparece: escribe las primeras letras del producto y selecciónalo en la lista de nombres coincidentes.
 
 Una vez que todo ha sido guardado, puedes enviar el código del cupón de descuento a tus clientes, o dejar que el sistema gestione las reglas de compra de manera automática, lo que dependerá de la configuración establecida.

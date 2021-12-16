@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About the user documentation](README.md)
+* [Contributing to the documentation](README.md)
 * [Guía de inicio](guia-inicio/README.md)
   * [¿Qué necesitas para empezar?](guia-inicio/que-necesitas-para-empezar.md)
   * [Instalar PrestaShop](guia-inicio/instalar-prestashop.md)
@@ -74,7 +74,7 @@
       * [Ubicaciones geográficas](guia-usuario/optimizar-tienda/mercado-internacional/ubicaciones-geograficas/README.md)
         * [Países](guia-usuario/optimizar-tienda/mercado-internacional/ubicaciones-geograficas/paises.md)
         * [Zonas](guia-usuario/optimizar-tienda/mercado-internacional/ubicaciones-geograficas/zonas.md)
-        * [Estados \(Provincias\)](guia-usuario/optimizar-tienda/mercado-internacional/ubicaciones-geograficas/estados-provincias.md)
+        * [Estados (Provincias)](guia-usuario/optimizar-tienda/mercado-internacional/ubicaciones-geograficas/estados-provincias.md)
       * [Gestionar Impuestos](guia-usuario/optimizar-tienda/mercado-internacional/gestionar-impuestos/README.md)
         * [Impuestos](guia-usuario/optimizar-tienda/mercado-internacional/gestionar-impuestos/impuestos.md)
         * [Reglas de Impuestos](guia-usuario/optimizar-tienda/mercado-internacional/gestionar-impuestos/reglas-de-impuestos.md)
@@ -114,7 +114,7 @@
         * [Gestor de consultas SQL](guia-usuario/configurar-tienda/parametros-avanzados/base-de-datos/gestor-de-consultas-sql.md)
         * [Copia de seguridad de la Base de Datos](guia-usuario/configurar-tienda/parametros-avanzados/base-de-datos/copia-seguridad-base-de-datos.md)
       * [Registros/Logs](guia-usuario/configurar-tienda/parametros-avanzados/registros-logs.md)
-      * [Webservice \(Servicio Web\)](guia-usuario/configurar-tienda/parametros-avanzados/servicio-web.md)
+      * [Webservice (Servicio Web)](guia-usuario/configurar-tienda/parametros-avanzados/servicio-web.md)
       * [Multitienda](guia-usuario/configurar-tienda/parametros-avanzados/multitienda.md)
   * [Gestionar múltiples tiendas](guia-usuario/gestionar-multiples-tiendas/README.md)
     * [La interfaz multitienda](guia-usuario/gestionar-multiples-tiendas/la-interfaz-multitienda.md)
@@ -124,4 +124,3 @@
     * [Ejemplo de usos y especificaciones del modo multitienda](guia-usuario/gestionar-multiples-tiendas/ejemplo-de-usos-y-especificaciones.md)
   * [Navegar por el front-office](guia-usuario/navegar-front-office.md)
   * [Cumplimiento de la legislación europea del RGPD](guia-usuario/cumplimiento-rgpd.md)
-

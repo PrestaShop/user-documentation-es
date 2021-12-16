@@ -6,7 +6,7 @@ La primera página bajo el menú "Clientes" te ofrece un listado de todos los us
 
 Ésta te proporciona a vista de pájaro una visión general de todos tus clientes, con algunos detalles que puedes utilizar para ordenar y buscar cuentas:
 
-* **ID. **La identificación única adjunta al cliente.
+* **ID.** La identificación única adjunta al cliente.
 * **Tratamiento (Título social)**. Los clientes pueden declarar su título social, que se corresponden a un género y que puede servirte de ayuda para ofrecer una experiencia más personalizada a tus clientes. Hay dos títulos sociales predeterminados (Sr., y Sra.), pero puedes crear todos los que considere necesarios desde la pestaña "Tratamientos" bajo la página "Ajustes sobre clientes" del menú "Parámetros de la tienda".
 * **Nombre** y **Apellido**. El nombre del cliente.
 * **Dirección email**. La dirección de correo electrónico que el cliente utilizó para registrarse en tu tienda.
@@ -41,7 +41,7 @@ ID;Title;Last name;First Name;Email address;Age;Enabled;News.;Opt.;Registration;
 
 Más opciones de importación están disponibles en la página "Importación" del menú "Parámetros Avanzados".
 
-## Crear una nueva cuenta de cliente <a href="tusclientes-crearunanuevacuentadecliente" id="tusclientes-crearunanuevacuentadecliente"></a>
+## Crear una nueva cuenta de cliente <a href="#tusclientes-crearunanuevacuentadecliente" id="tusclientes-crearunanuevacuentadecliente"></a>
 
 Para crear manualmente una cuenta de cliente, haz clic en el botón "Añadir cliente". Un formulario aparecerá en pantalla.
 
@@ -78,7 +78,7 @@ El modo B2B añade algunos campos específicos para empresas:
 * **Número máximo de días para pagar**. El número de días que se le permite a la empresa pagar el préstamo de productos.
 * **índice (Calificación) de riesgo**. Su calificación de riesgo para esta empresa: Ninguna, Baja, Media o Alta.
 
-## Visualizar la información de un cliente <a href="tusclientes-visualizarlainformaciondeuncliente" id="tusclientes-visualizarlainformaciondeuncliente"></a>
+## Visualizar la información de un cliente <a href="#tusclientes-visualizarlainformaciondeuncliente" id="tusclientes-visualizarlainformaciondeuncliente"></a>
 
 En caso de que desees obtener más información sobre un cliente determinado, puedes hacer clic en el botón "Ver", situado en el extremo de cada fila en la lista de clientes. Una nueva página aparecerá en pantalla.
 
@@ -101,7 +101,7 @@ Las diversas secciones te proporcionan datos importantes sobre el cliente:
   \
 
 
-## Búsqueda de clientes <a href="tusclientes-busquedadeclientes" id="tusclientes-busquedadeclientes"></a>
+## Búsqueda de clientes <a href="#tusclientes-busquedadeclientes" id="tusclientes-busquedadeclientes"></a>
 
 La búsqueda de un cliente en tu tienda PrestaShop puede hacerse de dos maneras diferentes.
 

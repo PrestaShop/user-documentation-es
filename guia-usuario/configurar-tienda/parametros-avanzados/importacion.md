@@ -41,7 +41,7 @@ Algunos de estos campos tienen un pequeño icono de información (representados 
 
 ![](../../../.gitbook/assets/54265551.png)
 
-## Formato de datos <a href="importacion-formatodedatos" id="importacion-formatodedatos"></a>
+## Formato de datos <a href="#importacion-formatodedatos" id="importacion-formatodedatos"></a>
 
 Los datos importados deben estar en un archivo de texto con extensión `.csv`, con los distintos valores de campos debidamente separados. Te recomendamos que utilices un punto y coma ";" como separador de campos. Si tus datos textuales (tales como descripción del producto) contienen caracteres punto y coma, deberás eliminarlos o elegir otro separador en la opción "Separador de campos".
 
@@ -70,7 +70,7 @@ Debes recordar que:
   \
 
 
-## Subir el archivo <a href="importacion-subirelarchivo" id="importacion-subirelarchivo"></a>
+## Subir el archivo <a href="#importacion-subirelarchivo" id="importacion-subirelarchivo"></a>
 
 Una vez que tengas todos los datos en formato CSV, puedes subirlos a la base de datos de tu tienda utilizando el formulario de esta página.
 
@@ -109,7 +109,7 @@ Una vez que los datos de tu archivo estén establecidos en sus columnas correspo
 
 Cuando el proceso se haya completado, serás redirigido a la pantalla principal, que deberá confirmarle que todo ha sido importado correctamente ("100% validado" y "100% importado"), o bien mostrarte una notificación de los problemas que se han encontrado durante la importación. En este segundo caso, deberás revisar de nuevo tu archivo CSV y asegúrarte de corregir todos los errores que se te han notificado.
 
-### Configuraciones coincidentes <a href="importacion-configuracionescoincidentes" id="importacion-configuracionescoincidentes"></a>
+### Configuraciones coincidentes <a href="#importacion-configuracionescoincidentes" id="importacion-configuracionescoincidentes"></a>
 
 El proceso de configuración puede ser una tarea tediosa si tienes una y otra vez que seleccionar el orden de las columnas del archivo CSV para que coincidan con la utilizada por la herramienta de importación de PrestaShop. Es por eso que PrestaShop incluye una pequeña herramienta para guardar el orden actual de la configuración que hayas establecido en las cabeceras utilizando las listas desplegables.
 
@@ -121,11 +121,11 @@ Esta herramienta es un campo sencillo situado en la parte superior de esta pági
 * **Cargar**. Selecciona una configuración coincidente en la lista desplegable y haz clic en "Cargar".
 * **Eliminar**. Selecciona una configuración coincidente en la lista desplegable y haz clic en "Eliminar".
 
-### Importar Características utilizando Excel <a href="importacion-importarcaracteristicasutilizandoexcel" id="importacion-importarcaracteristicasutilizandoexcel"></a>
+### Importar Características utilizando Excel <a href="#importacion-importarcaracteristicasutilizandoexcel" id="importacion-importarcaracteristicasutilizandoexcel"></a>
 
 &#x20;La importación de características utlizando Excel es particular ya que no puedes establecer el campo o delimitadores de valor múltiple. Por esta razón, se debe prestar especial atención a los campos particularmente "irregulares" o "fuera de lo común" (es decir, campos que no son campos de texto simple y que tienen varias variables). Las Características campo / columna en la Importación de Productos es uno de estos campos peculiarmente definidos como irregulares.
 
-El formato de la columna Característica está dividido en 4 "partes", cada una de ellas separada por dos puntos:**       **\
+El formato de la columna Característica está dividido en 4 "partes", cada una de ellas separada por dos puntos:       ****       \
 **nombredelaCaracterística:valor:posición:valorPersonalizado**
 
 Para añadir múltiples características, debes separar la "combinación" de características mediante comas, por ejemplo:  **nombredelaCaracterística1:valor1:posición1:valorPersonalizado1,nombredelaCaracterística2:valor2:posición2:valorPersonalizado2,nombredelaCaracterística3:valor3:posición3:valorPersonalizado3** etc.\

@@ -14,7 +14,7 @@ Secciones incluidas en este capítulo:
 
 Para crear un nuevo producto, desde la página "Catálogo" haz clic en "Nuevo producto" (o utiliza el atajo de teclado CTRL + P): Abrirás la denominada página de producto, donde puedes crear nuevos productos o editar los existentes.
 
-### Pestañas <a href="gestionarlosproductos-pestanas" id="gestionarlosproductos-pestanas"></a>
+### Pestañas <a href="#gestionarlosproductos-pestanas" id="gestionarlosproductos-pestanas"></a>
 
 En PrestaShop 1.7, la página del producto está organizada en pestañas:
 
@@ -26,9 +26,9 @@ En PrestaShop 1.7, la página del producto está organizada en pestañas:
 * **SEO**: administra la meta descripción o URL del producto para asegurarte de que se encuentran optimizadas para los motores de búsqueda.
 * **Opciones**: características adicionales para gestionar la visibilidad de tu producto, referencias específicas, archivos adjuntos o proveedores. También es aquí donde puedes establecer la personalización.
 
-### ![](../../../.gitbook/assets/54264998.png) <a href="gestionarlosproductos" id="gestionarlosproductos"></a>
+### ![](../../../.gitbook/assets/54264998.png) <a href="#gestionarlosproductos" id="gestionarlosproductos"></a>
 
-### Nombre del producto <a href="gestionarlosproductos-nombredelproducto" id="gestionarlosproductos-nombredelproducto"></a>
+### Nombre del producto <a href="#gestionarlosproductos-nombredelproducto" id="gestionarlosproductos-nombredelproducto"></a>
 
 El primer campo a rellenar es el nombre del producto, que aparecerá en los resultados de los motores de búsqueda y en la URL de la hoja del producto de manera predeterminada. Junto al campo encontrarás un selector de idioma, que te permite seleccionar el idioma en el que deseas editar o crear el producto.
 
@@ -38,11 +38,11 @@ El primer campo a rellenar es el nombre del producto, que aparecerá en los resu
 
 Asegúrate de traducir cada campo en todos los idiomas disponibles en tu tienda. Para ello, haz clic en el selector de idioma situado junto al campo del tipo de producto, y selecciona el idioma en el que deseas editar el texto del producto.
 
-### Tipo de producto <a href="gestionarlosproductos-tipodeproducto" id="gestionarlosproductos-tipodeproducto"></a>
+### Tipo de producto <a href="#gestionarlosproductos-tipodeproducto" id="gestionarlosproductos-tipodeproducto"></a>
 
 Esta segunda opción es esencial: indica si el producto es un pack o paquete de productos (una combinación de al menos dos productos existentes), un producto virtual (archivo descargable, servicio, etc.), o simplemente un producto clásico que se envía por correo. Por ahora, sólo analizaremos el producto clásico, y trataremos los packso paquetes de productos y los productos virtuales en próximas secciones de este capítulo.
 
-### Idioma <a href="gestionarlosproductos-idioma" id="gestionarlosproductos-idioma"></a>
+### Idioma <a href="#gestionarlosproductos-idioma" id="gestionarlosproductos-idioma"></a>
 
 Es posible que hayas activado varios idiomas en tu tienda, para vender en más países. Si deseas realmente atraer con mayor fuerza a clientes de otros países, todo el contenido de tu tienda (descripción del producto, títulos, etc.) deben ser traducidos en esos idiomas.
 
@@ -52,7 +52,7 @@ De manera predeterminada, la página del producto mostrará el contenido en el i
 
 Para añadir nuevos idiomas a tu tienda, dirígete a la sección Internacional. Puedes añadir un idioma desde la página "Traducciones", como también añadir un paquete de localización desde la página "Localización". Encontrarás más información en el capítulo [Abriéndote paso al mercado internacional](http://doc.prestashop.com/pages/viewpage.action?pageId=54264371).
 
-### Botones globales  <a href="gestionarlosproductos-botonesglobales" id="gestionarlosproductos-botonesglobales"></a>
+### Botones globales  <a href="#gestionarlosproductos-botonesglobales" id="gestionarlosproductos-botonesglobales"></a>
 
 ![](../../../.gitbook/assets/54265006.png)
 
@@ -91,17 +91,17 @@ Algunos atajos de teclado se han introducido en PrestaShop 1.7 para ayudarte a a
 * Añadir nuevo producto: CTRL+P
 * Duplicar: CTRL+D
 
-## Crear un producto <a href="gestionarlosproductos-crearunproducto" id="gestionarlosproductos-crearunproducto"></a>
+## Crear un producto <a href="#gestionarlosproductos-crearunproducto" id="gestionarlosproductos-crearunproducto"></a>
 
 La página de producto, ha sido rediseñada en PrestaShop 1.7, facilitando la creación de un producto gracias al aumento del número de pestañas.
 
-### Ajustes básicos <a href="gestionarlosproductos-ajustesbasicos" id="gestionarlosproductos-ajustesbasicos"></a>
+### Ajustes básicos <a href="#gestionarlosproductos-ajustesbasicos" id="gestionarlosproductos-ajustesbasicos"></a>
 
 ![](../../../.gitbook/assets/54265009.png)
 
 La pestaña "Ajustes básicos" proporciona las principales opciones necesarias para crear un producto básico: en unos pocos clics podrás crear un nuevo producto. Desde ésta también puedes navegar a través de las otras pestañas disponibles para añadir más detalles a tu producto.
 
-#### Imágenes <a href="gestionarlosproductos-imagenes" id="gestionarlosproductos-imagenes"></a>
+#### Imágenes <a href="#gestionarlosproductos-imagenes" id="gestionarlosproductos-imagenes"></a>
 
 La sección de imágenes se encuentra en la parte superior izquierda de la pestaña "Ajustes básicos". Debes subir todas las imágenes del producto, incluyendo las de todas sus combinaciones (color, tamaño, forma, etc.).
 
@@ -133,7 +133,7 @@ Una vez que hayas cargado todas las imágenes de tus productos, puedes modificar
 
 ![](../../../.gitbook/assets/54265821.gif)
 
-#### Resumen y Descripción  <a href="gestionarlosproductos-resumenydescripcion" id="gestionarlosproductos-resumenydescripcion"></a>
+#### Resumen y Descripción  <a href="#gestionarlosproductos-resumenydescripcion" id="gestionarlosproductos-resumenydescripcion"></a>
 
 Describir tu producto es esencial, tanto para el cliente (contra mayor información, mejor) como para los motores de búsqueda (esto ayudará a que tu tienda aparezca en más solicitudes de búsqueda).
 
@@ -146,7 +146,7 @@ En la parte inferior de la pantalla, se presentan dos campos de descripción que
 
 ![](../../../.gitbook/assets/54265822.gif)
 
-#### Característica <a href="gestionarlosproductos-caracteristica" id="gestionarlosproductos-caracteristica"></a>
+#### Característica <a href="#gestionarlosproductos-caracteristica" id="gestionarlosproductos-caracteristica"></a>
 
 Debajo de las descripciones del producto, tienes varias opciones disponibles. La opción "Añadir característica" sirve para especificar las características de tus productos (peso, material, país de origen, etc.).
 
@@ -178,7 +178,7 @@ Una vez que hayas establecido todas las características apropiadas y relevantes
 
 Recuerda: Si una característica no tiene ningún valor establecido a ésta, no será tomada en cuenta para este producto, y no será visible en tu tienda.
 
-#### Marca <a href="gestionarlosproductos-marca" id="gestionarlosproductos-marca"></a>
+#### Marca <a href="#gestionarlosproductos-marca" id="gestionarlosproductos-marca"></a>
 
 De la misma manera que puedes añadir una característica, puedes añadir una marca. Haz clic en "Añadir una marca" y selecciona una marca en el menú desplegable.
 
@@ -188,7 +188,7 @@ Un producto sólo puede ser asociado a una marca.
 
 ![](../../../.gitbook/assets/54265027.png)
 
-#### Producto relacionado <a href="gestionarlosproductos-productorelacionado" id="gestionarlosproductos-productorelacionado"></a>
+#### Producto relacionado <a href="#gestionarlosproductos-productorelacionado" id="gestionarlosproductos-productorelacionado"></a>
 
 El campo "Añadir un producto relacionado" te da la opción de elegir productos relevantes a asociar con este producto, para mostrarlos a tus clientes como sugerencias de compra cuando visitan la página del producto (si el tema lo soporta). Haz clic en "Añadir un producto relacionado", introduce las primeras letras del producto y selecciónalo. El producto es a continuación, añadido debajo de este campo.
 
@@ -197,7 +197,7 @@ El campo "Añadir un producto relacionado" te da la opción de elegir productos 
 Puedes asociar un producto con tantos otros productos como consideres necesario. Haz clic en el icono de la papelera para eliminar la asociación del producto.\
 Una asociación sólo se produce en un sentido: El producto asociado, no incluirá una asociación al producto actual, en su página de configuración.
 
-#### Combinaciones <a href="gestionarlosproductos-combinaciones" id="gestionarlosproductos-combinaciones"></a>
+#### Combinaciones <a href="#gestionarlosproductos-combinaciones" id="gestionarlosproductos-combinaciones"></a>
 
 ![](../../../.gitbook/assets/54265032.png)
 
@@ -212,7 +212,7 @@ La creación de atributos se realiza desde la página "Atributos y Característi
 
 Para obtener más información sobre las Combinaciones, consulta la [sección dedicada al final de este capítulo](http://doc.prestashop.com/display/PS17/Gestionar+los+productos#Gestionarlosproductos-Crearunproductoconcombinaciones).
 
-#### Cantidad <a href="gestionarlosproductos-cantidad" id="gestionarlosproductos-cantidad"></a>
+#### Cantidad <a href="#gestionarlosproductos-cantidad" id="gestionarlosproductos-cantidad"></a>
 
 Indica cuántas unidades están disponibles para la venta.
 
@@ -220,7 +220,7 @@ Esta opción no se mostrará si estás creando un producto con combinaciones: la
 
 Más opciones relacionadas con la cantidad están disponibles en la pestaña "Cantidades".
 
-#### Precio <a href="gestionarlosproductos-precio" id="gestionarlosproductos-precio"></a>
+#### Precio <a href="#gestionarlosproductos-precio" id="gestionarlosproductos-precio"></a>
 
 ![](../../../.gitbook/assets/54265034.png)
 
@@ -234,7 +234,7 @@ Hay más opciones de precios disponibles en la pestaña "Precios". Tanto si camb
 
 Las reglas de impuestos se pueden gestionar en el menú "Internacional", página "Impuestos"
 
-#### Categorías <a href="gestionarlosproductos-categorias" id="gestionarlosproductos-categorias"></a>
+#### Categorías <a href="#gestionarlosproductos-categorias" id="gestionarlosproductos-categorias"></a>
 
 ![](../../../.gitbook/assets/54265036.png)
 
@@ -272,13 +272,13 @@ En este punto, ya has completado la información esencial para una página de pr
 
 Aunque ya has completado la información esencial, debes seguir leyendo este capítulo, ya que hay muchos más detalles que puedes añadir a tu producto para que ¡sea más atractivo para los clientes!.
 
-### **Cantidades** <a href="gestionarlosproductos-cantidades" id="gestionarlosproductos-cantidades"></a>
+### **Cantidades** <a href="#gestionarlosproductos-cantidades" id="gestionarlosproductos-cantidades"></a>
 
 Las cantidades de productos se gestionan en una sola pestaña. PrestaShop utilizará esto para determinar cuándo un producto estará pronto fuera de stock o ya no tiene existencias.
 
 ![](../../../.gitbook/assets/54265047.png)
 
-#### Producto estándar <a href="gestionarlosproductos-productoestandar" id="gestionarlosproductos-productoestandar"></a>
+#### Producto estándar <a href="#gestionarlosproductos-productoestandar" id="gestionarlosproductos-productoestandar"></a>
 
 Para un producto estándar solamente existen cuatro campos disponibles:
 
@@ -287,13 +287,13 @@ Para un producto estándar solamente existen cuatro campos disponibles:
 * **Cantidad mínima para la venta**. Es posible que prefieras que esta variación sólo se venda a granel. Utiliza este campo para establecer el número mínimo de unidades que se venden a granel. Esto significa que tus clientes podrán comprar este producto solamente cuando alcancen esta cantidad mínima.
 * **Alertas de stock.** También puedes establecer en esta sección una regla para productos que se encuentren con un bajo nivel de stock. Indica el umbral deseado y marca la casilla de verificación "Envíame un mensaje de correo electrónico cuando la cantidad sea inferior o igual a este nivel" para enviar un mensaje de correo electrónico a todos los usuarios que puedan acceder y modificar la página del stock de productos - los permisos pueden ser modificados desde el menú [Parámetros Avanzados > Equipo](../../configurar-tienda/parametros-avanzados/).
 
-#### Producto con combinaciones  <a href="gestionarlosproductos-productoconcombinaciones" id="gestionarlosproductos-productoconcombinaciones"></a>
+#### Producto con combinaciones  <a href="#gestionarlosproductos-productoconcombinaciones" id="gestionarlosproductos-productoconcombinaciones"></a>
 
 La forma en que funciona es bastante fácil: La página presenta una tabla de todas las combinaciones existentes para el producto actual (Si no hay combinaciones, la tabla simplemente tiene una sola fila). Establece el stock inicial para todas las combinaciones.
 
 Para obtener mayor información sobre las combinaciones de productos, consulta la [sección dedicada al final de este capítulo](http://doc.prestashop.com/display/PS17/Gestionar+los+productos#Gestionarlosproductos-Crearunproductoconcombinaciones).Los packs de productos y el producto virtual tienen diferentes configuraciones de stock, encontrarás todo lo que necesitas conocer sobre ellos al final de este capítulo.
 
-#### Preferencias de disponibilidad **** <a href="gestionarlosproductos-preferenciasdedisponibilidad" id="gestionarlosproductos-preferenciasdedisponibilidad"></a>
+#### Preferencias de disponibilidad **** <a href="#gestionarlosproductos-preferenciasdedisponibilidad" id="gestionarlosproductos-preferenciasdedisponibilidad"></a>
 
 **Comportamiento fuera de stock**
 
@@ -312,7 +312,7 @@ La opción "Comportamiento cuando no hay existencias", permite establecer el com
 
 También puedes configurar los ajustes generales aplicados a todos tus productos: la opción predeterminada es denegar pedidos, pero esto puede modificarse bajo "Configuración de productos" en la sección "Parámetros de la tienda" ("Permitir ordenar fuera de stock" Productos ").
 
-### **Transporte** <a href="gestionarlosproductos-transporte" id="gestionarlosproductos-transporte"></a>
+### **Transporte** <a href="#gestionarlosproductos-transporte" id="gestionarlosproductos-transporte"></a>
 
 La pestaña "Transporte" te permite especificar algunos detalles de interés sobre el empaquetado de tu producto. No está disponible en el caso de un producto virtual.
 
@@ -333,11 +333,11 @@ La pestaña "Transporte" te permite especificar algunos detalles de interés sob
 * **Gastos de envío (gastos de envío adicionales)**. Esto puede resultar muy útil para productos que son particularmente difíciles de empaquetar, o pesan demasiado.
 * **Transportistas disponibles**. Puedes elegir que el producto actual solamente sea enviado por una selección de transportistas específicos. Si no se selecciona ningún transportista, entonces todos los transportistas estarán disponibles para el envío del producto.
 
-### **Precios** <a href="gestionarlosproductos-precios" id="gestionarlosproductos-precios"></a>
+### **Precios** <a href="#gestionarlosproductos-precios" id="gestionarlosproductos-precios"></a>
 
 La pestaña de precios permite refinar tu estrategia de precios, ya sea utilizando precios alternativos (precio por unidad) o creando algunas reglas de precios específicas para el producto.
 
-#### Precio al por menor <a href="gestionarlosproductos-precioalpormenor" id="gestionarlosproductos-precioalpormenor"></a>
+#### Precio al por menor <a href="#gestionarlosproductos-precioalpormenor" id="gestionarlosproductos-precioalpormenor"></a>
 
 El precio de tu producto antes de añadirle impuestos.
 
@@ -351,13 +351,13 @@ El precio de tu producto antes de añadirle impuestos.
 
 Puedes rellenar el campo "Precio - impuestos excluidos" y seleccionar una regla de impuestos a aplicar, y el "Precio - impuestos excluidos" será calculado automáticamente. La operación inversa también es posible.
 
-#### Precio de coste **** <a href="gestionarlosproductos-preciodecoste" id="gestionarlosproductos-preciodecoste"></a>
+#### Precio de coste **** <a href="#gestionarlosproductos-preciodecoste" id="gestionarlosproductos-preciodecoste"></a>
 
 Introduce el precio que pagó por el producto (cuánto le costó adquirir o fabricar el producto), éste le permitirá compararlo con tu precio de venta con el fin de calcular fácilmente tu beneficio.
 
 El precio de coste debe ser inferior al precio de venta.
 
-#### Precios específicos: Gestionar Descuentos <a href="gestionarlosproductos-preciosespecificos-gestionardescuentos" id="gestionarlosproductos-preciosespecificos-gestionardescuentos"></a>
+#### Precios específicos: Gestionar Descuentos <a href="#gestionarlosproductos-preciosespecificos-gestionardescuentos" id="gestionarlosproductos-preciosespecificos-gestionardescuentos"></a>
 
 Puedes cambiar el precio total del producto en función de la cantidad de productos que compre tu cliente, el grupo de usuario al que pertenezca, el país, etc. Esta acción puede realizarse desde la sección "Precios específicos" de la pestaña "Precios". Haz clic en el botón "Añadir un precio específico" para revelar el formulario de creación:
 
@@ -377,7 +377,7 @@ Si deseas eliminar un valor, haz clic en el icono de la papelera en la tabla.
 
 Si deseas crear descuentos más complejos, consulta el capítulo "[Gestionar Descuentos"](http://doc.prestashop.com/display/PS17/Gestionar+Descuentos) de esta guía.
 
-#### Gestionar prioridades **** <a href="gestionarlosproductos-gestionarprioridades" id="gestionarlosproductos-gestionarprioridades"></a>
+#### Gestionar prioridades **** <a href="#gestionarlosproductos-gestionarprioridades" id="gestionarlosproductos-gestionarprioridades"></a>
 
 Un cliente podría estar relacionado y "afectado" por múltiples precios o por varias reglas de descuento, incluso aunque haya creado reglas muy específicas, descuentos por cantidades, grupos personalizados de clientes y tiendas (en el caso que estemos hablando dentro de un contexto multitienda). PrestaShop utiliza un conjunto de prioridades con el fin de aplicar una sola regla de precios a dichos clientes. Es posible que, por ejemplo, desees que el grupo de usuarios sea más importante que la moneda utilizada.\
 
@@ -395,7 +395,7 @@ El orden predeterminado por importancia es:
 
 Una casilla de verificación en la parte inferior te permite aplicar la configuración establecida a todos los productos. Si la casilla de verificación queda desmarcada, los cambios sólo se aplicarán al producto actual.
 
-### **SEO** <a href="gestionarlosproductos-seo" id="gestionarlosproductos-seo"></a>
+### **SEO** <a href="#gestionarlosproductos-seo" id="gestionarlosproductos-seo"></a>
 
 Para optimizar tu listado de productos, así como también aumentar la visibilidad de tu tienda, te sugerimos que rellene cuidadosamente los diversos campos SEO: Meta títulos, meta descripciones, palabras clave y URLs amigables.
 
@@ -407,7 +407,7 @@ Para acceder a la información SEO del producto, dirígete a la pestaña "SEO".
 
 ![](../../../.gitbook/assets/54265064.png)
 
-#### Optimización de motores de búsqueda <a href="gestionarlosproductos-optimizaciondemotoresdebusqueda" id="gestionarlosproductos-optimizaciondemotoresdebusqueda"></a>
+#### Optimización de motores de búsqueda <a href="#gestionarlosproductos-optimizaciondemotoresdebusqueda" id="gestionarlosproductos-optimizaciondemotoresdebusqueda"></a>
 
 Los campos de esta página permiten mejorar la visibilidad de tu catálogo en los motores de búsqueda.
 
@@ -428,22 +428,22 @@ Las URLs amigables sólo funcionarán si la reescritura URL está activada. Pued
 
 Encontrarás más información de la página de preferencias "SEO y URLs" en el capítulo "[Tráfico](http://doc.prestashop.com/pages/viewpage.action?pageId=54264528)" de esta guía.
 
-#### Página de redirección <a href="gestionarlosproductos-paginaderedireccion" id="gestionarlosproductos-paginaderedireccion"></a>
+#### Página de redirección <a href="#gestionarlosproductos-paginaderedireccion" id="gestionarlosproductos-paginaderedireccion"></a>
 
 Cuando tu producto está fuera de línea, la página del producto ya no estará disponible en tu tienda. Tendrás que decidir lo que quieres mostrar a tus visitantes en su lugar:
 
-* **No redireccionar (404). **Esto mostrará una página de "error 404 - No encontrada".
+* **No redireccionar (404).** Esto mostrará una página de "error 404 - No encontrada".
 * **Redirección permanente (301).** Esto redirigirá permanentemente al visitante a otra página de producto. La URL actual de la página del producto ya no será indexada por los motores de búsqueda: Ésta será reemplazada por la URL de la página del producto de tu elección. Elige la página del producto que deseas mostrar en su lugar. Recuerda, que esta redirección es permanente, ¡así que asegúrate de que no necesita esta URL antes de activar la redirección 301!\
 
 * **Redirección temporal (302).** Esto es una redirección temporal a otra página de producto. Elige la página del producto que deseas mostrar en su lugar. Los motores de búsqueda seguirán indexando la URL de la página del producto, por lo que puedes reutilizarla más tarde fácilmente, en caso de reactivar el producto, por ejemplo.\
 
 
-### **Opciones** <a href="gestionarlosproductos-opciones" id="gestionarlosproductos-opciones"></a>
+### **Opciones** <a href="#gestionarlosproductos-opciones" id="gestionarlosproductos-opciones"></a>
 
 La pestaña "Opciones" proporciona ajustes adicionales para gestionar referencias de productos, proveedores, personalización de productos, visibilidad y archivos.\
 
 
-#### Visibilidad <a href="gestionarlosproductos-visibilidad" id="gestionarlosproductos-visibilidad"></a>
+#### Visibilidad <a href="#gestionarlosproductos-visibilidad" id="gestionarlosproductos-visibilidad"></a>
 
 Puedes elegir que el producto esté disponible a través de diferentes canales:
 
@@ -458,7 +458,7 @@ Puedes elegir que el producto esté disponible a través de diferentes canales:
 * **Mostrar el precio**. Si la opción anterior "disponible para pedidos" está desmarcada, puedes optar por mostrar el precio del producto (aunque los visitantes no podrán comprarlo), o no mostrárselos a sus clientes.
 * **Sólo web (no se vende en tienda física)**. Esta opción será de gran valor cuando un producto, sólo se venda a través de internet, no en tiendas físicas – esto previene a nivel informativo a los clientes de que no vayan a tu tienda física con la esperanza de comprar el producto, para así evitar los gastos de envío.
 
-#### Etiquetas <a href="gestionarlosproductos-etiquetas.1" id="gestionarlosproductos-etiquetas.1"></a>
+#### Etiquetas <a href="#gestionarlosproductos-etiquetas.1" id="gestionarlosproductos-etiquetas.1"></a>
 
 Las etiquetas son términos y palabras clave que ayudarán a tus clientes a encontrar fácilmente lo que están buscando. Cuando los clientes utilizan la barra de búsqueda para buscar en el catálogo de tu tienda, escribirán algunas palabras clave específicas. Elige las palabras clave más relevantes para tu producto, para asegurarte de que el producto se muestre en los resultados cuando un visitante las utilice para su búsqueda.
 
@@ -468,7 +468,7 @@ Todas las etiquetas se pueden ver en la página "Búsqueda", bajo el menú "Par�
 
 Las etiquetas de los productos no son las mismas que las de las páginas: éstas no tienen un impacto directo en el posicionamiento en los motores de búsqueda.
 
-#### Condición y Referencias <a href="gestionarlosproductos-condicionyreferencias" id="gestionarlosproductos-condicionyreferencias"></a>
+#### Condición y Referencias <a href="#gestionarlosproductos-condicionyreferencias" id="gestionarlosproductos-condicionyreferencias"></a>
 
 **Condición**. No todas las tiendas venden productos nuevos. Esta opción te permite indicar el estado de uso del producto:
 
@@ -483,7 +483,7 @@ Las etiquetas de los productos no son las mismas que las de las páginas: éstas
   * Un código EAN-13 es un número internacional constituido por 13 dígitos para identificar un artículo. Más información en la Wikipedia: [http://es.wikipedia.org/wiki/European\_Article\_Number](http://es.wikipedia.org/wiki/European\_Article\_Number).
   * Un código JAN es específico de Japón, pero es compatible con el internacional EAN. Más información en la Wikipedia: [http://en.wikipedia.org/wiki/Japanese\_Article\_Number](http://en.wikipedia.org/wiki/Japanese\_Article\_Number).
 
-#### Personalización <a href="gestionarlosproductos-personalizacion" id="gestionarlosproductos-personalizacion"></a>
+#### Personalización <a href="#gestionarlosproductos-personalizacion" id="gestionarlosproductos-personalizacion"></a>
 
 PrestaShop permite a tus clientes personalizar el producto que ellos van a comprar.
 
@@ -541,7 +541,7 @@ El cliente puede a continuación comprobar el pedido, el cual mostrará la image
 
 El resto del proceso de pedido y entrega no varía y es el habitual.
 
-#### Adjuntar un archivo **** <a href="gestionarlosproductos-adjuntarunarchivo" id="gestionarlosproductos-adjuntarunarchivo"></a>
+#### Adjuntar un archivo **** <a href="#gestionarlosproductos-adjuntarunarchivo" id="gestionarlosproductos-adjuntarunarchivo"></a>
 
 PrestaShop permite poner a disposición del cliente algunos archivos adjuntos antes de la compra.
 
@@ -571,7 +571,7 @@ Si necesitas eliminar un archivo adjunto de esta página de producto, simplement
 
 Puedes ver todos los archivos adjuntos de tu tienda, añadir alguno más y eliminarlos, visitando la página "Archivos adjuntos" del menú "Catálogo". Esto también hace posible utilizar los  archivos adjuntos que ya se subieron anteriormente para otros productos: si necesitas poner a disposición del cliente este mismo archivo adjunto para otros productos, sólo tienes que subirlo una vez.
 
-#### Proveedores <a href="gestionarlosproductos-proveedores" id="gestionarlosproductos-proveedores"></a>
+#### Proveedores <a href="#gestionarlosproductos-proveedores" id="gestionarlosproductos-proveedores"></a>
 
 Indicar el proveedor del producto no es realmente un dato importante para tus clientes (o dese luego es un dato que para ellos es mucho menos importante que el del fabricante del producto), sin embargo, éste puede llegar a ser esencial para tu propia gestión interna, y no menos importante para gestionar tu stock de existencias: sólo necesitas saber a qué proveedor compraste el producto. El proveedor del producto actual se establece desde la pestaña "Proveedores".
 
@@ -596,7 +596,7 @@ Hay muchas más opciones relacionadas con los productos, en la página "Configur
 
 Realmente debes comprobar que estos ajustes globales se encuentran establecidos como desea.
 
-## Crear un producto con combinaciones <a href="gestionarlosproductos-crearunproductoconcombinaciones" id="gestionarlosproductos-crearunproductoconcombinaciones"></a>
+## Crear un producto con combinaciones <a href="#gestionarlosproductos-crearunproductoconcombinaciones" id="gestionarlosproductos-crearunproductoconcombinaciones"></a>
 
 Para activar las combinaciones de productos, primero debes seleccionar la opción "Producto con combinaciones" en la pestaña "Ajustes básicos". Verás que la pestaña "Cantidades" se renombra automáticamente a "Combinaciones", y en esta última pestaña es donde podrás administrar tus combinaciones de productos.
 
@@ -609,9 +609,9 @@ La creación de atributos se realiza en la página "Atributos y Características
 
 La manera en que los atributos de tu producto forman las combinaciones depende de ti, y PrestaShop te ofrece dos métodos para lograrlo.
 
-### Añadir combinaciones <a href="gestionarlosproductos-anadircombinaciones" id="gestionarlosproductos-anadircombinaciones"></a>
+### Añadir combinaciones <a href="#gestionarlosproductos-anadircombinaciones" id="gestionarlosproductos-anadircombinaciones"></a>
 
-#### Método manual <a href="gestionarlosproductos-metodomanual" id="gestionarlosproductos-metodomanual"></a>
+#### Método manual <a href="#gestionarlosproductos-metodomanual" id="gestionarlosproductos-metodomanual"></a>
 
 Este método te ayuda a crear combinaciones una tras otra, por lo tanto, éste debe reservarse para productos con pocas combinaciones, o productos con combinaciones muy específicas que no se pueden crear con fiabilidad utilizando el método automático (véase la siguiente sección).
 
@@ -637,7 +637,7 @@ Puedes eliminar un par de atributo-valor haciendo clic en la cruz que aparece en
 
 ![](../../../.gitbook/assets/54266099.gif)
 
-#### Método automático <a href="gestionarlosproductos-metodoautomatico" id="gestionarlosproductos-metodoautomatico"></a>
+#### Método automático <a href="#gestionarlosproductos-metodoautomatico" id="gestionarlosproductos-metodoautomatico"></a>
 
 Si tienes demasiadas versiones o variedades del producto,  puedes utilizar el "Generador de combinaciones de productos". Esta herramienta te permite generar automáticamente todas las combinaciones y posibilidades.
 
@@ -651,13 +651,13 @@ Así es como debes hacerlo:
 
 Para una simple combinación, puedes editar su cantidad directamente en la tabla, editarla (haciendo clic en el icono de lápiz) o eliminarla (con el icono de la papelera).
 
-### Gestionar combinaciones <a href="gestionarlosproductos-gestionarcombinaciones" id="gestionarlosproductos-gestionarcombinaciones"></a>
+### Gestionar combinaciones <a href="#gestionarlosproductos-gestionarcombinaciones" id="gestionarlosproductos-gestionarcombinaciones"></a>
 
-#### Combinación predeterminada <a href="gestionarlosproductos-combinacionpredeterminada" id="gestionarlosproductos-combinacionpredeterminada"></a>
+#### Combinación predeterminada <a href="#gestionarlosproductos-combinacionpredeterminada" id="gestionarlosproductos-combinacionpredeterminada"></a>
 
 Cuando tienes varias combinaciones disponibles, debes elegir cuál de ellas será la combinación predeterminada. Ésta será la combinación que tus clientes verán cuando visiten la página del producto. Si quieren comprar otra combinación, tendrán que seleccionarla ellos mismos (cambiando el color, el tamaño o cualquier atributo que pueda tener el producto).
 
-#### Editar una combinación <a href="gestionarlosproductos-editarunacombinacion" id="gestionarlosproductos-editarunacombinacion"></a>
+#### Editar una combinación <a href="#gestionarlosproductos-editarunacombinacion" id="gestionarlosproductos-editarunacombinacion"></a>
 
 Puedes gestionar todavía más cada combinación haciendo clic en el icono de edición. Se abrirá una pequeña ventana para que puedas modificar los detalles de esta combinación específica.
 
@@ -680,7 +680,7 @@ Una vez que hayas terminado de editar una combinación, puedes:
 * regresar al producto haciendo clic en "volver al producto" en la parte superior de esta sección.\
 
 
-#### Acciones en masa  <a href="gestionarlosproductos-accionesenmasa" id="gestionarlosproductos-accionesenmasa"></a>
+#### Acciones en masa  <a href="#gestionarlosproductos-accionesenmasa" id="gestionarlosproductos-accionesenmasa"></a>
 
 Puedes cambiar los detalles para todas o varias combinaciones a la vez.
 
@@ -694,8 +694,8 @@ Si deseas eliminar todas las combinaciones que has seleccionado, haga clic en "E
 Cuando hayas configurado todos los detalles de la combinación, guarda los cambios del producto utilizando el botón "Guardar". Su combinación aparecerá en el listado de atributos en la parte inferior de la pantalla.
 
 Crear un producto virtual\
- <a href="gestionarlosproductos-crearunproductovirtual" id="gestionarlosproductos-crearunproductovirtual"></a>
---------------------------------------------------------------------------------------------------------------
+ <a href="#gestionarlosproductos-crearunproductovirtual" id="gestionarlosproductos-crearunproductovirtual"></a>
+---------------------------------------------------------------------------------------------------------------
 
 Tu tienda puede presentar (en parte o exclusivamente) productos virtuales – es decir, los productos que no serán enviados, sino descargados: entradas de conciertos, libros electrónicos, servicios de la vida real...\
 PrestaShop hace que sea fácil crear un producto virtual.
@@ -743,7 +743,7 @@ Al hacer clic en "Sí", PrestaShop te presenta un nuevo formulario dentro de la 
 
 Una vez hayas terminado con la pestaña "Producto virtual", puedes editar el resto de pestañas disponibles como si se tratara de un producto estándar.
 
-## Crear un pack o paquete de productos <a href="gestionarlosproductos-crearunpackopaquetedeproductos" id="gestionarlosproductos-crearunpackopaquetedeproductos"></a>
+## Crear un pack o paquete de productos <a href="#gestionarlosproductos-crearunpackopaquetedeproductos" id="gestionarlosproductos-crearunpackopaquetedeproductos"></a>
 
 Es posible que desees vender un pack o paquete de productos compuesto por varios artículos. Por ejemplo: Un paquete informático compuesto por una computadora, un monitor, y una impresora. PrestaShop hace fácil crear un producto "pack", y añadir otros productos de tu catálogo a este pack.
 
@@ -765,7 +765,7 @@ Esto cambiará dos cosas:
 * En "Ajustes básicos" puedes seleccionar los productos que forman parte del pack
 * En "Cantidades" puedes seleccionar cómo deben manejarse las existencias.
 
-### Añadir productos a tu pack <a href="gestionarlosproductos-anadirproductosatupack" id="gestionarlosproductos-anadirproductosatupack"></a>
+### Añadir productos a tu pack <a href="#gestionarlosproductos-anadirproductosatupack" id="gestionarlosproductos-anadirproductosatupack"></a>
 
 * El primer campo se utiliza para buscar productos que ya están registrados en tu tienda.
 * El segundo campo se utiliza para indicar qué cantidad del producto seleccionado debe ser añadido al pack.
@@ -777,7 +777,7 @@ Puedes añadir al pack tantos productos como desees.
 
 Puedes eliminar un producto del paquete simplemente haciendo clic en el ícono de la papelera cuando te sitúas sobre éste.
 
-### Gestionar cantidades de un pack <a href="gestionarlosproductos-gestionarcantidadesdeunpack" id="gestionarlosproductos-gestionarcantidadesdeunpack"></a>
+### Gestionar cantidades de un pack <a href="#gestionarlosproductos-gestionarcantidadesdeunpack" id="gestionarlosproductos-gestionarcantidadesdeunpack"></a>
 
 Cuando estás creando un pack de productos, PrestaShop necesita saber cómo gestionar el stock. En la pestaña "Cantidades", en "Cantidad de packs", debes elegir una de las siguientes opciones:
 
