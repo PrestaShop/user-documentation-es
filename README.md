@@ -22,7 +22,7 @@ Each documentation is synchronized with a repository on GitHub. Both interfaces 
 
 #### Opening an issue
 
-An idea, a suggestion? Let the community know by submitting a [new issue](https://github.com/PrestaShop/user-documentation-en/issues)!
+An idea, a suggestion? Let the community know by submitting a [new issue](https://github.com/PrestaShop/user-documentation-es/issues)!
 
 This is a ticket-tracker for the user documentation repository and it is the best place to write a suggestion or request an improvement. For that, you will just need a GitHub account.
 
