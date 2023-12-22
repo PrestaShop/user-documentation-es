@@ -14,7 +14,7 @@ PrestaShop viene con un tema predeterminado, el cual utiliza distintos tonos de 
 
 Si instalaste PrestaShop con sus datos de ejemplo, verás productos de prendas de vestir.
 
-Aunque el propietario de la tienda puede cambiar el tema del front-office en cualquier momento, gracias a la gran cantidad de temas disponibles en el sitio web de complementos de PrestaShop, ([http://addons.prestashop.com/](http://addons.prestashop.com)), en este capítulo nos basaremos tan sólo en el tema por defecto.
+Aunque el propietario de la tienda puede cambiar el tema del front-office en cualquier momento, gracias a la gran cantidad de temas disponibles en el sitio web de complementos de PrestaShop, ([http://addons.prestashop.com/](http://addons.prestashop.com/)), en este capítulo nos basaremos tan sólo en el tema por defecto.
 
 Ten en cuenta que aquí estamos describiendo el tema con su configuración y módulos por defecto. La activación de otros módulos, o evidentemente el uso de otro tema, puede producir un cambio radicalmente distinto en la experiencia de compra.
 
@@ -80,7 +80,7 @@ El pie de página da acceso a páginas que podrían ser útiles para tus usuario
 * El bloque "Tu cuenta", contiene enlaces a las páginas principales del perfil del usuario (o la página de autenticación). El título "Tu cuenta" también es un enlace a la cuenta del cliente.\
 
   * **Direcciones**. Un cliente puede añadir varias direcciones para diferentes opciones de entrega.\
-    ****
+
   * **Facturas por abono**. Se reciben cuando un pedido es cancelado o devuelto por el cliente. Al crear una factura por abono, se puede crear un cupón de descuento para que el cliente lo utilice en su próxima compra.
   * **Pedidos**. Todos los pedidos realizados en el pasado y actualmente en proceso.
   * **Información personal**. Nombre, apellido, dirección de correo electrónico, domicilio, número de teléfono, fecha de nacimiento: toda la información necesaria sobre un cliente.

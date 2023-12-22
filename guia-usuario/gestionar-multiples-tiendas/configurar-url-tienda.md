@@ -13,7 +13,7 @@ Debes definir al menos una URL para cada tienda.
     Por ejemplo: [http://www.ejemplo.com/hombres/](http://www.ejemplo.com/hombres/) y [http://ejemplo.com/hombres/](http://ejemplo.com/hombres/)
 
     De lo contrario, los clientes que traten de acceder a tu tienda sin utilizar las "www." en la URL serán redireccionados a tu tienda principal.
-* Utilizando subdominios: [http://hombres.ejemplo.com/](http://hombres.ejemplo.com), [http://mujeres.ejemplo.com/](http://mujeres.ejemplo.com), [http://niños.ejemplo.com/](http://xn--nios-hqa.ejemplo.com), [http://mascotas.ejemplo.com/](http://mascotas.ejemplo.com), etc.
+* Utilizando subdominios: [http://hombres.ejemplo.com/](http://hombres.ejemplo.com/), [http://mujeres.ejemplo.com/](http://mujeres.ejemplo.com/), [http://niños.ejemplo.com/](http://xn--nios-hqa.ejemplo.com/), [http://mascotas.ejemplo.com/](http://mascotas.ejemplo.com/), etc.
 
 No crees ninguna subcarpeta o dominio por ti mismo, ya sea en tu servidor o en tu equipo: PrestaShop se encarga de crear la ruta absoluta para ti en tu servidor. Cuando los visitantes accedan a esta URL, PrestaShop los dirigirá a la tienda correcta automáticamente.
 

@@ -11,7 +11,7 @@ Por razones de seguridad, no se permiten algunos tipos de consultas: UPDATE, DEL
 
 Además, las llaves de seguridad y contraseñas se ocultarán bajo asteriscos (\*\*\*\*\*\*\*\*\*\*\*).
 
-## Crear una nueva consulta <a href="gestordeconsultassql-crearunanuevaconsulta" id="gestordeconsultassql-crearunanuevaconsulta"></a>
+## Crear una nueva consulta <a href="#gestordeconsultassql-crearunanuevaconsulta" id="gestordeconsultassql-crearunanuevaconsulta"></a>
 
 Como de costumbre, el botón "Añadir una nueva consulta SQL" te redirecciona al formulario de creación. Este formulario cuenta con dos campos principales:
 
@@ -26,7 +26,7 @@ Adicionalmente, la sección "Lista de las tablas MySQL" te ayuda a explorar la b
 
 Al hacer clic en el botón "Guardar" del formulario, serás enviado de vuelta a la página principal, donde se listarán las consultas que hayas guardado.
 
-## Iniciar una consulta <a href="gestordeconsultassql-iniciarunaconsulta" id="gestordeconsultassql-iniciarunaconsulta"></a>
+## Iniciar una consulta <a href="#gestordeconsultassql-iniciarunaconsulta" id="gestordeconsultassql-iniciarunaconsulta"></a>
 
 Cada consulta grabada en la tabla tiene cuatro iconos a la derecha de su fila:
 
@@ -37,7 +37,7 @@ Cada consulta grabada en la tabla tiene cuatro iconos a la derecha de su fila:
 
 ![](../../../../.gitbook/assets/54265585.png)
 
-## Ajustes <a href="gestordeconsultassql-ajustes" id="gestordeconsultassql-ajustes"></a>
+## Ajustes <a href="#gestordeconsultassql-ajustes" id="gestordeconsultassql-ajustes"></a>
 
 Tan sólo hay un ajuste disponible:
 
@@ -45,26 +45,26 @@ Tan sólo hay un ajuste disponible:
 
 ![](../../../../.gitbook/assets/54265588.png)
 
-## Algunas consultas de ejemplo <a href="gestordeconsultassql-algunasconsultasdeejemplo" id="gestordeconsultassql-algunasconsultasdeejemplo"></a>
+## Algunas consultas de ejemplo <a href="#gestordeconsultassql-algunasconsultasdeejemplo" id="gestordeconsultassql-algunasconsultasdeejemplo"></a>
 
 Las posibilidades son infinitas, pero aquí hay algunas consultas de ejemplo que te ayudarán a construir tus propias consultas.
 
-### Listar las direcciones de correo electrónico de todos los clientes <a href="gestordeconsultassql-listarlasdireccionesdecorreoelectronicodetodoslosclientes" id="gestordeconsultassql-listarlasdireccionesdecorreoelectronicodetodoslosclientes"></a>
+### Listar las direcciones de correo electrónico de todos los clientes <a href="#gestordeconsultassql-listarlasdireccionesdecorreoelectronicodetodoslosclientes" id="gestordeconsultassql-listarlasdireccionesdecorreoelectronicodetodoslosclientes"></a>
 
 | `SELECT email FROM ps_customer` |
 | ------------------------------- |
 
-### Listar las direcciones de correo electrónico de todos los clientes que están suscritos al boletín de noticias <a href="gestordeconsultassql-listarlasdireccionesdecorreoelectronicodetodoslosclientesqueestansuscritosalbol" id="gestordeconsultassql-listarlasdireccionesdecorreoelectronicodetodoslosclientesqueestansuscritosalbol"></a>
+### Listar las direcciones de correo electrónico de todos los clientes que están suscritos al boletín de noticias <a href="#gestordeconsultassql-listarlasdireccionesdecorreoelectronicodetodoslosclientesqueestansuscritosalbol" id="gestordeconsultassql-listarlasdireccionesdecorreoelectronicodetodoslosclientesqueestansuscritosalbol"></a>
 
 | `SELECT emailFROM ps_customerWHERE newsletter = 1` |
 | -------------------------------------------------- |
 
-### Listar todos los productos activos que tengan una descripción en francés (id\_lang = 4) <a href="gestordeconsultassql-listartodoslosproductosactivosquetenganunadescripcionenfrances-id_lang-4" id="gestordeconsultassql-listartodoslosproductosactivosquetenganunadescripcionenfrances-id_lang-4"></a>
+### Listar todos los productos activos que tengan una descripción en francés (id\_lang = 4) <a href="#gestordeconsultassql-listartodoslosproductosactivosquetenganunadescripcionenfrances-id_lang-4" id="gestordeconsultassql-listartodoslosproductosactivosquetenganunadescripcionenfrances-id_lang-4"></a>
 
-| `SELECT p.id_product, `[`pl.name`](http://pl.name)`, pl.link_rewrite, pl.descriptionFROM ps_product pLEFT JOIN ps_product_lang pl ON (p.id_product = pl.id_product)WHERE p.active = 1AND pl.id_lang = 4` |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `SELECT p.id_product,` [`pl.name`](http://pl.name/)`, pl.link_rewrite, pl.descriptionFROM ps_product pLEFT JOIN ps_product_lang pl ON (p.id_product = pl.id_product)WHERE p.active = 1AND pl.id_lang = 4` |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-### Listar todos los pedidos, mostrando el transportista que lo entregó, la moneda utilizada en la compra, el método de pago seleccionado por el cliente, el total de la compra y la fecha en la que se realizó la compra <a href="gestordeconsultassql-listartodoslospedidos-mostrandoeltransportistaqueloentrego-lamonedautilizadaenl" id="gestordeconsultassql-listartodoslospedidos-mostrandoeltransportistaqueloentrego-lamonedautilizadaenl"></a>
+### Listar todos los pedidos, mostrando el transportista que lo entregó, la moneda utilizada en la compra, el método de pago seleccionado por el cliente, el total de la compra y la fecha en la que se realizó la compra <a href="#gestordeconsultassql-listartodoslospedidos-mostrandoeltransportistaqueloentrego-lamonedautilizadaenl" id="gestordeconsultassql-listartodoslospedidos-mostrandoeltransportistaqueloentrego-lamonedautilizadaenl"></a>
 
-| <p><code>SELECT o.`id_order` AS `id`,    CONCAT(LEFT(c.`firstname`, 1), '. ', c.`lastname`) AS `Customer`,    ca.`name` AS `Carrier`,    cu.`name` AS `Currency`,    o.`payment`, CONCAT(o.`total_paid_real`, ' ', cu.`sign`) AS `Total`,    o.`date_add` AS `Date`FROM `ps_orders` oLEFT JOIN `ps_customer` c ON (o.`id_customer` = c.`id_customer`)LEFT JOIN `ps_carrier` ca ON (o.id_carrier = ca.id_carrier)LEFT JOIN `ps_currency` cu ON (o.`id_currency` = cu.`id_currency`)</code><br><code></code></p> |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p><code>SELECT o.`id_order` AS `id`,    CONCAT(LEFT(c.`firstname`, 1), '. ', c.`lastname`) AS `Customer`,    ca.`name` AS `Carrier`,    cu.`name` AS `Currency`,    o.`payment`, CONCAT(o.`total_paid_real`, ' ', cu.`sign`) AS `Total`,    o.`date_add` AS `Date`FROM `ps_orders` oLEFT JOIN `ps_customer` c ON (o.`id_customer` = c.`id_customer`)LEFT JOIN `ps_carrier` ca ON (o.id_carrier = ca.id_carrier)LEFT JOIN `ps_currency` cu ON (o.`id_currency` = cu.`id_currency`)</code><br></p> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

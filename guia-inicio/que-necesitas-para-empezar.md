@@ -39,7 +39,7 @@ PrestaShop es una aplicación web, lo que significa que hay que instalarla en un
 
 ### Registro de un nombre de dominio
 
-Antes de descargar o instalar nada, tienes que buscar un lugar donde alojar tu tienda online de PrestaShop. Para ello, necesitas un nombre de dominio y un servidor web. Un dominio es el identificador online de tu sitio web, como [ejemplo.com](http://example.com) o [mitiendaonline.net](http://myonlineshop.net). Es la cara pública de tu servidor web, y por tanto, también la de tu tienda.
+Antes de descargar o instalar nada, tienes que buscar un lugar donde alojar tu tienda online de PrestaShop. Para ello, necesitas un nombre de dominio y un servidor web. Un dominio es el identificador online de tu sitio web, como [ejemplo.com](http://example.com/) o [mitiendaonline.net](http://myonlineshop.net/). Es la cara pública de tu servidor web, y por tanto, también la de tu tienda.
 
 Tienes que comprar un nombre de dominio para tu tienda. Muchos proveedores ofrecen un dominio gratuito con cada cuenta nueva, así que podrías adquirir uno cuando compres tu alojamiento web. Además, quizá sea gratis durante un año o mientras te mantengas como cliente de dicho proveedor. Esto facilita conseguir el paquete completo (alojamiento + nombre de dominio) de una vez.
 
@@ -53,10 +53,10 @@ Además de pagar el registro del nombre de dominio, también tienes que pagar el
 
 Si quieres obtener tu nombre de dominio de un registrador independiente, estos son algunos de confianza:
 
-* Gandi: [http://en.gandi.net/](http://en.gandi.net)
-* Namecheap: [http://www.namecheap.com/](http://www.namecheap.com)
-* GoDaddy: [https://www.godaddy.com/](https://www.godaddy.com)
-* 1&1 IONOS : [https://www.ionos.es](https://www.ionos.es)
+* Gandi: [http://en.gandi.net/](http://en.gandi.net/)
+* Namecheap: [http://www.namecheap.com/](http://www.namecheap.com/)
+* GoDaddy: [https://www.godaddy.com/](https://www.godaddy.com/)
+* 1&1 IONOS : [https://www.ionos.es](https://www.ionos.es/)
 
 Hay muchos más. ¡Pregunta a tus amigos!
 
@@ -98,19 +98,19 @@ Necesitarás dos herramientas: un editor de texto (para poder editar archivos de
 Estos son algunos de los editores de texto más famosos:
 
 * Windows y OS X:
-  * Sublime Text: [http://www.sublimetext.com/](http://www.sublimetext.com)
-  * Atom: [https://atom.io/](https://atom.io)
+  * Sublime Text: [http://www.sublimetext.com/](http://www.sublimetext.com/)
+  * Atom: [https://atom.io/](https://atom.io/)
 * Unix/Linux:
-  * Vim: [http://www.vim.org/](http://www.vim.org)
+  * Vim: [http://www.vim.org/](http://www.vim.org/)
   * Emacs: [http://www.gnu.org/software/emacs/](http://www.gnu.org/software/emacs/)
 
-No utilices un procesador de textos cuando edites archivos de texto, como Microsoft Word o Write de [OpenOffice.org](http://openoffice.org).
+No utilices un procesador de textos cuando edites archivos de texto, como Microsoft Word o Write de [OpenOffice.org](http://openoffice.org/).
 
 #### Cliente FTP
 
 FTP es el acrónimo de “File Transfer Protocol”: la forma estándar que se usa para transferir archivos desde un ordenador a un proveedor web.
 
-En esta guía usaremos FileZilla, un cliente fabuloso y gratuito para Windows, MacOS X y Linux. Descárgalo desde [http://filezilla-project.org/](http://filezilla-project.org) y arranca su instalador. Nota: No descargues FileZilla Server, solo FileZilla Client.
+En esta guía usaremos FileZilla, un cliente fabuloso y gratuito para Windows, MacOS X y Linux. Descárgalo desde [http://filezilla-project.org/](http://filezilla-project.org/) y arranca su instalador. Nota: No descargues FileZilla Server, solo FileZilla Client.
 
 Cuando hayas instalado FileZilla, tendrás que configurarlo con los parámetros de conexión de tu servidor web que debe haberte proporcionado tu proveedor. Si no tienes dichos datos, pídelos o consulta tu carpeta de spam.
 
@@ -137,25 +137,25 @@ Para añadir tu espacio de alojamiento en Site Manager:
 Si FileZilla no termina de convencerte, aquí tienes otros clientes FTP conocidos:
 
 * Windows:
-  * CoreFTP: [http://www.coreftp.com/](http://www.coreftp.com)
-  * WinSCP: [http://winscp.net/](http://winscp.net)
-  * SmartFTP: [http://www.smartftp.com/](http://www.smartftp.com)
+  * CoreFTP: [http://www.coreftp.com/](http://www.coreftp.com/)
+  * WinSCP: [http://winscp.net/](http://winscp.net/)
+  * SmartFTP: [http://www.smartftp.com/](http://www.smartftp.com/)
 * Mac OS X:
-  * Cyberduck: [http://cyberduck.ch/](http://cyberduck.ch)
+  * Cyberduck: [http://cyberduck.ch/](http://cyberduck.ch/)
   * Transmit: [http://www.panic.com/transmit/](http://www.panic.com/transmit/)
   * Fetch: [http://fetchsoftworks.com/fetch/](http://fetchsoftworks.com/fetch/)
 * Unix/Linux:
-  * gFTP: [http://gftp.seul.org/](http://gftp.seul.org)
-  * kasablanca: [http://kasablanca.berlios.de/](http://kasablanca.berlios.de)
+  * gFTP: [http://gftp.seul.org/](http://gftp.seul.org/)
+  * kasablanca: [http://kasablanca.berlios.de/](http://kasablanca.berlios.de/)
   * NcFTP: [http://www.ncftp.com/ncftp/](http://www.ncftp.com/ncftp/)
 
 ## Diseño de un plan
 
 Ahora te toca decidir dónde quieres alojar PrestaShop. Puedes configurar tu nombre de dominio de cuatro formas:
 
-* En la raíz del dominio: [http://www.ejemplo.com/](http://www.example.com)
+* En la raíz del dominio: [http://www.ejemplo.com/](http://www.example.com/)
 * En una carpeta: [http://www.ejemplo.com/tienda/](http://www.example.com/shop/)
-* En un subdominio: [http://tienda.ejemplo.com/](http://store.example.com)
+* En un subdominio: [http://tienda.ejemplo.com/](http://store.example.com/)
 * En una carpeta de un subdominio: [http://moda.ejemplo.com/boutique/](http://clothes.example.com/boutique/)
 
 Ten en cuenta que, gracias a la función de multitienda, puedes tener tantas tiendas como sea necesario con una sola instalación de PrestaShop 1.7, cada una con su propio nombre de dominio específico, si fuera necesario. Tenlo en cuenta a la hora de decidir dónde va cada qué.\

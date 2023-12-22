@@ -45,7 +45,7 @@ Algunos de estos campos tienen un pequeño icono de información (representados 
 
 Los datos importados deben estar en un archivo de texto con extensión `.csv`, con los distintos valores de campos debidamente separados. Te recomendamos que utilices un punto y coma ";" como separador de campos. Si tus datos textuales (tales como descripción del producto) contienen caracteres punto y coma, deberás eliminarlos o elegir otro separador en la opción "Separador de campos".
 
-Puedes crear un archivo de este tipo con cualquier editor de texto (como por ejemplo Notepad++: [http://notepad-plus-plus.org/](http://notepad-plus-plus.org)), pero te aconsejamos que utilices un programa que te permita trabajar con hojas de cálculo, y posteriormente guardar tu trabajo en formato .CSV. En una hoja de cálculo puedes trabajar visualmente más rápido, en comparación con un archivo de texto plano. Puedes utilizar un programa de pago como Microsoft Excel: [http://office.microsoft.com/es-es/excel/](http://office.microsoft.com/es-es/excel/), o bien una alternativa libre y gratuita como OpenOffice Calc: [http://www.openoffice.org/](http://www.openoffice.org).
+Puedes crear un archivo de este tipo con cualquier editor de texto (como por ejemplo Notepad++: [http://notepad-plus-plus.org/](http://notepad-plus-plus.org/)), pero te aconsejamos que utilices un programa que te permita trabajar con hojas de cálculo, y posteriormente guardar tu trabajo en formato .CSV. En una hoja de cálculo puedes trabajar visualmente más rápido, en comparación con un archivo de texto plano. Puedes utilizar un programa de pago como Microsoft Excel: [http://office.microsoft.com/es-es/excel/](http://office.microsoft.com/es-es/excel/), o bien una alternativa libre y gratuita como OpenOffice Calc: [http://www.openoffice.org/](http://www.openoffice.org/).
 
 Este es un ejemplo de cómo sería el resultado final de un archivo preparado para importar una lista de productos:
 
@@ -125,7 +125,7 @@ Esta herramienta es un campo sencillo situado en la parte superior de esta pági
 
 &#x20;La importación de características utlizando Excel es particular ya que no puedes establecer el campo o delimitadores de valor múltiple. Por esta razón, se debe prestar especial atención a los campos particularmente "irregulares" o "fuera de lo común" (es decir, campos que no son campos de texto simple y que tienen varias variables). Las Características campo / columna en la Importación de Productos es uno de estos campos peculiarmente definidos como irregulares.
 
-El formato de la columna Característica está dividido en 4 "partes", cada una de ellas separada por dos puntos:       ****       \
+El formato de la columna Característica está dividido en 4 "partes", cada una de ellas separada por dos puntos:       \
 **nombredelaCaracterística:valor:posición:valorPersonalizado**
 
 Para añadir múltiples características, debes separar la "combinación" de características mediante comas, por ejemplo:  **nombredelaCaracterística1:valor1:posición1:valorPersonalizado1,nombredelaCaracterística2:valor2:posición2:valorPersonalizado2,nombredelaCaracterística3:valor3:posición3:valorPersonalizado3** etc.\

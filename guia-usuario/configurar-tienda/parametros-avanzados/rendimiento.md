@@ -2,9 +2,9 @@
 
 Esta página combina muchas herramientas y consejos que te pueden ayudar a mejorar el rendimiento de tu tienda en el servidor – sin fines comerciales, aunque un servidor que tenga un mayor rendimiento será capaz de atender a las consultas y peticiones de un mayor número de usuarios, y por lo tanto podrías obtener más ventas.
 
-## Smarty <a href="rendimiento-smarty" id="rendimiento-smarty"></a>
+## Smarty <a href="#rendimiento-smarty" id="rendimiento-smarty"></a>
 
-Smarty es el nombre del motor de plantillas utilizado por los temas de PrestaShop. Puedes aprender más sobre éste desde el siguiente enlace: [http://www.smarty.net/](http://www.smarty.net).
+Smarty es el nombre del motor de plantillas utilizado por los temas de PrestaShop. Puedes aprender más sobre éste desde el siguiente enlace: [http://www.smarty.net/](http://www.smarty.net/).
 
 ![](../../../.gitbook/assets/54265518.png)
 
@@ -21,7 +21,7 @@ Hay varias opciones:
 * **Tipo de caché**. Por defecto, Smarty utiliza un mecanismo de almacenamiento en caché basado en archivos. Puedes optar porque éste utilice MySQL, como recurso de almacenamiento de memoria caché de salida de Smarty.
 * **Borrar la memoria caché**. Dependiendo de la frecuencia con la que se produzcan los cambios en tu tienda, es posible que desees o bien nunca borrar los archivos de la caché, o bien borrarla cada vez que tu tienda es modificada (ya sean productos o diseño).
 
-## Modo Depuración <a href="rendimiento-mododepuracion" id="rendimiento-mododepuracion"></a>
+## Modo Depuración <a href="#rendimiento-mododepuracion" id="rendimiento-mododepuracion"></a>
 
 Desde el modo de depuración, puedes optar por reducir el impacto que tienen ciertas funcionalidades en PrestaShop, y así poder evaluar con precisión de donde proviene un error:
 
@@ -31,7 +31,7 @@ Desde el modo de depuración, puedes optar por reducir el impacto que tienen cie
 * **Desactivar los métodos de sobrecarga (overrides)**. Muchas de las características de PrestaShop pueden ser sobrecargadas. Si habilitas esta configuración, todas las sobrecargas del código serán desactivadas, y podrás determinar si el problema proviene del propio código de PrestaShop, o de un módulo de terceros.
 * **Modo depuración**. Al activar esta opción, los mensajes de error técnico serán visibles. Es útil cuando una persona está ayudando otra que no tiene acceso a tu tienda, pero que necesita saber lo que está pasando técnicamente.
 
-## Características opcionales <a href="rendimiento-caracteristicasopcionales" id="rendimiento-caracteristicasopcionales"></a>
+## Características opcionales <a href="#rendimiento-caracteristicasopcionales" id="rendimiento-caracteristicasopcionales"></a>
 
 Algunas características de PrestaShop pueden ser desactivadas si no las utilizas, ya que pueden ralentizar tu tienda.
 
@@ -45,7 +45,7 @@ Puedes desactivar las siguientes características de catálogo:
 * **Características**. Las características del producto permiten indicar la información del producto específico: el peso, el material, el país de origen, etc.
 * **Grupos de clientes**. Los grupos de clientes te permiten agrupar clientes dentro de un mismo grupo con el fin de darles ciertos privilegios y restricciones: descuentos, restricciones de módulos, etc.
 
-## Combinación, Compresión y Caché (CCC) <a href="rendimiento-combinacion-compresionycache-ccc" id="rendimiento-combinacion-compresionycache-ccc"></a>
+## Combinación, Compresión y Caché (CCC) <a href="#rendimiento-combinacion-compresionycache-ccc" id="rendimiento-combinacion-compresionycache-ccc"></a>
 
 CCC es un conjunto de herramientas destinadas a minimizar la carga del servidor y el tiempo de carga del tema de la tienda.
 
@@ -57,7 +57,7 @@ Esto hace lo que dice: combina archivos textuales del mismo tipo en un archivo m
 * **"Smart cache" para el código de JavaScript**. Los archivos JavaScript son archivos de texto, pero su combinación a veces puede resultar problemática. Asegúrate de probar todo antes de dejar activada esta opción.
 * **Optimización de Apache**. Este ajuste de configuración, modificará el archivo de configuración del servidor web con el fin de hacerlo más eficiente para CCC.
 
-## Servidores de medios (utilizar solamente cuando CCC está activado) <a href="rendimiento-servidoresdemedios-utilizarsolamentecuandocccestaactivado" id="rendimiento-servidoresdemedios-utilizarsolamentecuandocccestaactivado"></a>
+## Servidores de medios (utilizar solamente cuando CCC está activado) <a href="#rendimiento-servidoresdemedios-utilizarsolamentecuandocccestaactivado" id="rendimiento-servidoresdemedios-utilizarsolamentecuandocccestaactivado"></a>
 
 Esta sección te permite redirigir parte del tráfico de tu tienda (imágenes y archivos de vídeo, por ejemplo) a otros servidores bajo tu control, a través de otros dominios o subdominios – generalmente, los archivos están alojados en un CDN (Content Delivery Network).
 
@@ -65,7 +65,7 @@ Esta sección te permite redirigir parte del tráfico de tu tienda (imágenes y 
 
 Poner el nombre de dominio de tu tienda en estos campos no es la forma apropiada para conseguir un fantástico rendimiento. Dicho esto, es fácil implementar un servidor de medios, y obtener sus beneficios reales de manera casi inmediata. He aquí cómo conseguirlo:
 
-1. Abre una cuenta con una empresa de hosting, preferiblemente que esté especializada en el contenido distribuido. Las más populares son Akamai ([http://www.akamai.com/](http://www.akamai.com)), Amazon (con sus servicios AWS, entre los que se incluye CloudFront: [http://aws.amazon.com/](http://aws.amazon.com)) o CloudFlare ([http://www.cloudflare.com/](http://www.cloudflare.com)). También debes preguntar a tu proveedor de hosting, sobre la posibilidad de suscribirte a una red de entrega de contenidos CDN.
+1. Abre una cuenta con una empresa de hosting, preferiblemente que esté especializada en el contenido distribuido. Las más populares son Akamai ([http://www.akamai.com/](http://www.akamai.com/)), Amazon (con sus servicios AWS, entre los que se incluye CloudFront: [http://aws.amazon.com/](http://aws.amazon.com/)) o CloudFlare ([http://www.cloudflare.com/](http://www.cloudflare.com/)). También debes preguntar a tu proveedor de hosting, sobre la posibilidad de suscribirte a una red de entrega de contenidos CDN.
 2. Copia tus archivos multimedia en el servidor de ese host. Esto significa que el servidor CDN debe contener una copia exacta de las siguientes carpetas del servidor principal de tu tienda: `/img`, `/themes` y `/modules`.\
    Advertencia: Asegúrate de que estos archivos estén siempre sincronizados: incluso si añades nuevos productos o cambias de tema, el servidor CDN debe contener la última versión de estos archivos.
 3. Una vez que el servidor CDN ha sido establecido correctamente, añade la dirección web (proporcionada por tu proveedor de hosting CDN) en el primer campo, "Servidor de medios n°1". Si ese host permite más direcciones web, añádelas.
@@ -90,7 +90,7 @@ Incluso si no tienes un servidor CDN, puedes utilizar la funcionalidad del servi
 
 Una vez que tengas todo configurado correctamente, PrestaShop cargará tus imágenes en cualquiera de estos subdominios. En efecto, las imágenes provendrán de la misma carpeta (la principal), pero el navegador abrirá varios hilos de conexión más a tu servidor web de lo que lo haría de forma predeterminada, con lo que todo el proceso de carga de páginas será mucho más rápido:
 
-## Caché <a href="rendimiento-cache" id="rendimiento-cache"></a>
+## Caché <a href="#rendimiento-cache" id="rendimiento-cache"></a>
 
 La caché de tus servidores almacena versiones estáticas de tu página web dinámica, con el fin de servirlas a tus clientes, reduciendo la carga del servidor y los tiempos de compilación.
 
@@ -102,4 +102,4 @@ Esta sección te permite activar el almacenamiento en caché, y elegir el métod
 
 * **Memcached**. Un sistema de almacenamiento en caché distribuido. Muy eficaz, especialmente si utilizas múltiples servidores, pero necesitas asegurarte de que tu servidor/host lo soporta – lo que es probable, si tu configuración de PHP soporta o cuenta con la extensión Memcached PECL (la cual puedes descargar desde el siguiente enlace: [http://pecl.php.net/package/memcache](http://pecl.php.net/package/memcache)). Puedes añadir más servidores Memcached haciendo clic en el botón "Añadir servidor".
 * **APC**. Alternativa PHP Caché gratuita, abierta y robusta, pero sólo funciona con un servidor – que es el caso habitual al iniciar un negocio online. Comprueba la disponibilidad de la extensión APC PECL en tu servidor: [http://pecl.php.net/package/APC](http://pecl.php.net/package/APC).
-* **Xcache**. Es un nuevo sistema de caché, que es específico para el servidor Lighttpd – por lo tanto, no funciona con el popular servidor Apache. Obtén más información sobre éste, en el siguiente enlace: [http://xcache.lighttpd.net/](http://xcache.lighttpd.net).
+* **Xcache**. Es un nuevo sistema de caché, que es específico para el servidor Lighttpd – por lo tanto, no funciona con el popular servidor Apache. Obtén más información sobre éste, en el siguiente enlace: [http://xcache.lighttpd.net/](http://xcache.lighttpd.net/).

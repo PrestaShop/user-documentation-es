@@ -33,5 +33,5 @@ Normalmente, PrestaShop ya incluye todos los países existentes en su base de da
 * **Activo**. Un país desactivado no será sugerido como opción cuando un visitante se registre para crear una cuenta nueva.
 * **¿Contiene estados o provincias?**. Indica si el país tiene "estados" o no. Esta opción añade un campo al formulario de creación de direcciones de PrestaShop. Ten en cuenta que los "estados" pueden ser regiones, provincias, departamentos... cualquier cosa que pueda hacer uso de un servicio postal.
 * **¿Necesita este país el número de identificación fiscal?**. El número de identificación fiscal es un número de identificación utilizado por las autoridades fiscales del país para la administración de las leyes tributarias. No todos los países necesitan de este número. Consulta con las autoridades fiscales del país.
-* **Mostrar la etiqueta de impuestos (por ejemplo, "impuestos incl.")**. **** Elige si el estado fiscal (incluido o excluido), debe mostrarse junto a los precios o no.
+* **Mostrar la etiqueta de impuestos (por ejemplo, "impuestos incl.")**. Elige si el estado fiscal (incluido o excluido), debe mostrarse junto a los precios o no.
 * **Tiendas asociadas**. Puedes hacer que el país sólo esté disponible para una selección de tus tiendas, por ejemplo, tiendas cuyo objetivo sea cubrir una determinada zona local.

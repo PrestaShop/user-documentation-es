@@ -98,13 +98,13 @@ Exportar un tema\
 
 Esta sección está disponible tan sólo cuando hay al menos un tema instalado en tu sitio PrestaShop.
 
-Exportar un tema es muy útil y deberías de hacerlo cuando desees crear una copia de seguridad de éste, o cuando quieras crear un archivo del tema para enviárselo a un amigo o subirlo al marketplace PrestaShop Addons ([http://addons.prestashop.com/](http://addons.prestashop.com)). Esta opción no sólo genera un archivo Zip completo de tu tema, sino que también añade mucha información en un archivo XML, que te será de utilidad tanto al subir el tema a Prestashop Addons, como cuando quieras utilizarlo en otro sitio PrestaShop.
+Exportar un tema es muy útil y deberías de hacerlo cuando desees crear una copia de seguridad de éste, o cuando quieras crear un archivo del tema para enviárselo a un amigo o subirlo al marketplace PrestaShop Addons ([http://addons.prestashop.com/](http://addons.prestashop.com/)). Esta opción no sólo genera un archivo Zip completo de tu tema, sino que también añade mucha información en un archivo XML, que te será de utilidad tanto al subir el tema a Prestashop Addons, como cuando quieras utilizarlo en otro sitio PrestaShop.
 
 La opción de exportación sólo funciona para el tema actual. Haz clic en "Exportar tema actual" para exportar el tema utilizado por tu tienda.
 
 Tu tema se comprimirá en un archivo .zip y el mensaje de confirmación te indicará dónde encontrarlo en tu carpeta de temas. Para mayor seguridad, guarda el archivo en tu disco duro.
 
-A partir de aquí, puedes compartir fácilmente este tema, y si se trata de una creación tuya propia, puedes comenzar a venderlo utilizando el mercado de PrestaShop Addons:  [http://addons.prestashop.com/](http://addons.prestashop.com).
+A partir de aquí, puedes compartir fácilmente este tema, y si se trata de una creación tuya propia, puedes comenzar a venderlo utilizando el mercado de PrestaShop Addons:  [http://addons.prestashop.com/](http://addons.prestashop.com/).
 
 ## ¡En vivo, desde PrestaShop Addons!
 
@@ -139,7 +139,7 @@ Añade la siguiente información al archivo `theme.yml`:
 
 Ahora puedes utilizar este tema en el back office de tu tienda y editarlo como desees.
 
-¿Estás creando temas tan buenos que otros comerciantes podrían pagar dinero por ello?. Puedes venderlos en Addons, el marketplace oficial de temas y módulos de PrestaShop: [http://addons.prestashop.com/](http://addons.prestashop.com).
+¿Estás creando temas tan buenos que otros comerciantes podrían pagar dinero por ello?. Puedes venderlos en Addons, el marketplace oficial de temas y módulos de PrestaShop: [http://addons.prestashop.com/](http://addons.prestashop.com/).
 
 ## Configuración de la Página de Inicio
 

@@ -114,7 +114,7 @@ La tercera y última pestaña, "Acciones", te permite establecer en que consiste
   * **Producto específico**. Puedes elegir a qué producto se debe aplicar el descuento: escribe las primeras letras del producto y selecciónalo en la lista de nombres coincidentes.
   * **Producto más barato**. Sólo disponible para la opción "Porcentaje (%)". El descuento se aplica al producto más barato del pedido.
   * **Producto(s) seleccionado(s)**. Sólo disponible para la opción "Porcentaje (%)". El descuento se aplica a la selección de productos que podría haber definido en el paso anterior.
-* **Excluir productos con descuento**. **** _Novedad en PrestaShop 1.7_. De manera predeterminada. El cupón de descuento se aplica a cualquier tipo de producto, tenga o no algún tipo de descuento aplicado. Al activar esta opción, el cupón que estás creando no se aplicará a un producto o una combinación si ya está en oferta.
+* **Excluir productos con descuento**. _Novedad en PrestaShop 1.7_. De manera predeterminada. El cupón de descuento se aplica a cualquier tipo de producto, tenga o no algún tipo de descuento aplicado. Al activar esta opción, el cupón que estás creando no se aplicará a un producto o una combinación si ya está en oferta.
 * **Enviar un regalo**. Puedes optar por ofrecer un regalo bajo ciertas condiciones (y mantener el descuento). Al seleccionar esta opción, un nuevo campo aparece: escribe las primeras letras del producto y selecciónalo en la lista de nombres coincidentes.
 
 Una vez que todo ha sido guardado, puedes enviar el código del cupón de descuento a tus clientes, o dejar que el sistema gestione las reglas de compra de manera automática, lo que dependerá de la configuración establecida.

@@ -21,7 +21,7 @@ Tómate el tiempo necesario que consideres oportuno para examinar el Panel de co
 En la parte superior del back-office se encuentra una barra de color blanco que contiene un puñado de enlaces:
 
 * **El logotipo de PrestaShop**.\
-  ****
+
 * **Acceso rápido**. Este es el menú de enlaces rápidos, el cual presenta los enlaces más utilizados. Puedes personalizarlo haciendo clic en "Administrar accesos rápidos".
 * **Campo de búsqueda con lista desplegable**. Te permite realizar búsquedas dentro del contenido de tu tienda, tanto de datos de información como de funcionalidades.
 * **Modo de depuración** (opcional). Si estableces tu tienda en el modo de depuración, te mostrará un icono para recordarte que este modo está activado.
@@ -57,7 +57,7 @@ Aquí se presenta tu actividad cotidiana. Pedidos, catálogo, clientes, etc. Est
 
 Aquí encontrarás todo lo que necesitas para personalizar tu tienda y llevar a tu negocio a lo más alto. Configura y establece el aspecto del front-office, adapta los métodos de pago a tus mercados objetivos, expande tu negocio internacionalmente o mejora tu tienda ¡con nuevos módulos y características!
 
-* **Módulos**. Amplía el poder y la utilidad de tu tienda añadiendo y activando módulos: más de un centenar de ellos vienen incluidos por defecto junto con Prestashop, pero puedes adquirir muchos más en PrestaShop Addons, el marketplace oficial de PrestaShop ([http://addons.prestashop.com/](http://addons.prestashop.com)).&#x20;
+* **Módulos**. Amplía el poder y la utilidad de tu tienda añadiendo y activando módulos: más de un centenar de ellos vienen incluidos por defecto junto con Prestashop, pero puedes adquirir muchos más en PrestaShop Addons, el marketplace oficial de PrestaShop ([http://addons.prestashop.com/](http://addons.prestashop.com/)).&#x20;
 * **Diseño**. Bajo la página de este título se manejan los temas, y puedes posicionar los bloques de contenido de los módulos que forman parte del tema de tu tienda. En general, aquí es donde puedes modificar la apariencia visual de tu tienda.
 * **Transporte**. Todo lo relacionado con los transportistas y gastos de envío.
 * **Pago**. Selecciona los métodos de pago disponibles en tu tienda y aplica ajustes globales a los módulos de pago.

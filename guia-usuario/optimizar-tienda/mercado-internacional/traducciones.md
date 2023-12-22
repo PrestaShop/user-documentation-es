@@ -19,7 +19,7 @@ Video - 5 preguntas que debes realizarte antes de traducir tu tienda en línea
 [\
 ![](../../../.gitbook/assets/51839786.png)](https://www.youtube.com/watch?v=Iw4lAuuA\_pU\&list=PLyZYn1MMU7-xT-L\_zUyGnRBJmAuP6uc-c\&index=27)
 
-## Modificar una traducción <a href="traducciones-modificarunatraduccion" id="traducciones-modificarunatraduccion"></a>
+## Modificar una traducción <a href="#traducciones-modificarunatraduccion" id="traducciones-modificarunatraduccion"></a>
 
 La herramienta más importante de la página "Traducciones" se encuentra en la sección "Modificar traducciones". Aquí es donde puedes editar una traducción, y personalizar completamente todas y cada una de las cadenas de texto, si así lo deseas.
 
@@ -45,7 +45,7 @@ Se abrirá una nueva página donde podrás gestionar las traducciones. Esta pág
 \
 
 
-### Buscar una expresión <a href="traducciones-buscarunaexpresion" id="traducciones-buscarunaexpresion"></a>
+### Buscar una expresión <a href="#traducciones-buscarunaexpresion" id="traducciones-buscarunaexpresion"></a>
 
 En la parte superior de la página, hay una barra de búsqueda que te ayudará a encontrar una palabra, frase o expresión específica que podrías querer modificar o traducir. A la derecha, se indica el número de expresiones disponibles en esta sección, y cuántas de estas cadenas de texto aún no han sido traducidas, en el idioma seleccionado.
 
@@ -59,7 +59,7 @@ Puedes navegar a través del árbol de la izquierda para encontrar todas las fra
 
 ![](../../../.gitbook/assets/58294470.png)
 
-### Consultar traducciones <a href="traducciones-consultartraducciones" id="traducciones-consultartraducciones"></a>
+### Consultar traducciones <a href="#traducciones-consultartraducciones" id="traducciones-consultartraducciones"></a>
 
 ![](../../../.gitbook/assets/54265381.png)
 
@@ -107,7 +107,7 @@ La misma lógica puede aplicarse a las traducciones del tema:
 
 * _ShopNotifications_ son los mensajes que aparecen en su tienda, ya sean de error o de éxito.
 
-### Modificar traducciones <a href="traducciones-modificartraducciones" id="traducciones-modificartraducciones"></a>
+### Modificar traducciones <a href="#traducciones-modificartraducciones" id="traducciones-modificartraducciones"></a>
 
 Cuando abres un dominio para ver todas sus cadenas, puedes modificar las traducciones existentes o completar las que faltan.
 
@@ -129,20 +129,20 @@ Los especificadores de formato numéricos (`%1$s`, `%2$d`, etc.) permiten a los 
 
 ![](../../../.gitbook/assets/54265387.png)
 
-### Traducción de módulos <a href="traducciones-traducciondemodulos" id="traducciones-traducciondemodulos"></a>
+### Traducción de módulos <a href="#traducciones-traducciondemodulos" id="traducciones-traducciondemodulos"></a>
 
 Cuando desees traducir un módulo específico, selecciona "Traducción de módulos instalados", y a continuación, selecciona el módulo que deseas editar. Se abrirá una nueva página con el contenido de este módulo, y todas sus cadenas disponibles.Dependiendo del módulo que estés viendo, la interfaz podría ser diferente. Algunos módulos están utilizando un sistema de traducción específico para la versión 1.7, mientras que otros siguen utilizando el antiguo sistema de la versión 1.6. Al final esto no cambia nada, ya que podrás traducir tus módulos de la misma manera.
 
-### Plantillas de correo electrónico <a href="traducciones-plantillasdecorreoelectronico" id="traducciones-plantillasdecorreoelectronico"></a>
+### Plantillas de correo electrónico <a href="#traducciones-plantillasdecorreoelectronico" id="traducciones-plantillasdecorreoelectronico"></a>
 
 La manera en que se realizan las traducciones de plantillas de correo electrónico es un poco diferente a las de las otras traducciones.
 
-Las cadenas son divididas por grupos, pero ya no se presentan como simples campos de texto. Cada e-mail tiene dos modelos: uno en formato HTML, que presenta estilos y colores, y otro en formato de texto plano, presentando un mensaje en texto bruto. Mientras el texto plano puede ser editado directamente desde los campos de texto, el modelo HTML sólo puede ser editado haciendo clic sobre el botón "Editar esta plantilla de correo electrónico" situado en la parte inferior de la vista previa. Ese clic activa la vista previa dentro de un campo de texto WYSIWYG (lo que ves es lo que obtienes), con un completo editor en la parte superior (basado en TinyMCE: [http://www.tinymce.com/](http://www.tinymce.com)). Además de editar el texto, puedes cambiar el diseño como mejor le parezca, por ejemplo, puedes cambiar los colores para adaptarlos al estilo de tu tienda.\
+Las cadenas son divididas por grupos, pero ya no se presentan como simples campos de texto. Cada e-mail tiene dos modelos: uno en formato HTML, que presenta estilos y colores, y otro en formato de texto plano, presentando un mensaje en texto bruto. Mientras el texto plano puede ser editado directamente desde los campos de texto, el modelo HTML sólo puede ser editado haciendo clic sobre el botón "Editar esta plantilla de correo electrónico" situado en la parte inferior de la vista previa. Ese clic activa la vista previa dentro de un campo de texto WYSIWYG (lo que ves es lo que obtienes), con un completo editor en la parte superior (basado en TinyMCE: [http://www.tinymce.com/](http://www.tinymce.com/)). Además de editar el texto, puedes cambiar el diseño como mejor le parezca, por ejemplo, puedes cambiar los colores para adaptarlos al estilo de tu tienda.\
 Ten en cuenta que las plantillas de correo electrónico cuentan con variables, como `{lastname}` o `{shop_name}`, que PrestaShop sustituirá por sus valores reales al enviar el e-mail. Asegúrate por tanto de mantener estas variables en tu traducción.
 
 ![](../../../.gitbook/assets/54265389.png)
 
-## Añadir / Actualizar un Idioma <a href="traducciones-anadir-actualizarunidioma" id="traducciones-anadir-actualizarunidioma"></a>
+## Añadir / Actualizar un Idioma <a href="#traducciones-anadir-actualizarunidioma" id="traducciones-anadir-actualizarunidioma"></a>
 
 Las traducciones PrestaShop están disponibles en paquetes, que combina las traducciones de las diferentes categorías dentro de un archivo zip. Muchos paquetes de idiomas están disponibles gratuitamente para que puedas descargarlos e instalarlos directamente desde los servidores de [PrestaShop.com](http://prestashop.com). PrestaShop se encargará de descargar el paquete de idioma, desempaquetarlo y crear las subcarpetas necesarias en la carpeta `/translation` de tu instalación.
 
@@ -150,7 +150,7 @@ Las traducciones PrestaShop están disponibles en paquetes, que combina las trad
 
 A continuación, puedes administrar el nuevo idioma desde la pestaña "Idiomas" del menú "Localización".
 
-## Exportar un idioma <a href="traducciones-exportarunidioma" id="traducciones-exportarunidioma"></a>
+## Exportar un idioma <a href="#traducciones-exportarunidioma" id="traducciones-exportarunidioma"></a>
 
 Puedes crear tu propio paquete de idioma utilizando esta herramienta, ya sea para hacer una copia de seguridad de tu traducción personalizada, o bien para importar esta traducción en otra instalación de PrestaShop – ya sea propia o de otra persona.
 
@@ -160,7 +160,7 @@ Para ello, tan sólo tienes que seleccionar el idioma y el tema de la traducció
 
 Ten en cuenta que el paquete contendrá el tema para que la que realizaste tu traducción.
 
-## Copiar <a href="traducciones-copiar" id="traducciones-copiar"></a>
+## Copiar <a href="#traducciones-copiar" id="traducciones-copiar"></a>
 
 Puedes copiar el contenido de un idioma a otro. Esto es especialmente útil cuando se quiere reemplazar los datos de un tema por los de otro tema.
 

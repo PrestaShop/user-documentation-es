@@ -81,7 +81,7 @@ Cada módulo viene con un conjunto de información para guiarte en su elección.
 * **Descripción corta**. Una frase que resuma y describa el propósito del módulo o servicio y en qué puede ayudarte.
 * **Popularidad**. La calificación del módulo disponible en Addons (hasta cinco estrellas) y el número de calificaciones.
 
-#### **Leer más** ****
+#### **Leer más** 
 
 Si la información básica ofrecida no es suficiente para que tomes una decisión, puedes hacer clic en "Leer más" para obtener más detalles. Se abrirá una ventana emergente, que incluye una imagen del módulo (su icono o, a veces, una captura de pantalla) y varias pestañas. Esta información es proporcionada por el autor del módulo, por lo tanto, pueden variar de un módulo a otro en términos de cantidad y calidad.
 

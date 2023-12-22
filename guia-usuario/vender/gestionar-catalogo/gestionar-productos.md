@@ -252,13 +252,13 @@ Para asociar una categoría a un producto, puedes utilizar la barra de búsqueda
 En el listado de categorías asociadas, si posicionas el ratón sobre una categoría específica, verás la ruta que conduce a la categoría. Esto puede ser de utilidad si tienes varias categorías con el mismo nombre (como "Calzado" que pueden estar indistintamente bajo las categorías "Niños" y "Mujer").
 
 **Categoría principal**\
-****
+
 
 El selector "categoría principal" es útil cuando un artículo está incluido en varias categorías. Ésta sirve principalmente para aclarar qué categoría utilizar en caso de que el cliente llegue a tu tienda desde un motor de búsqueda, ya que el nombre de la categoría aparecerá en la URL del producto.\
 
 
 **Crear una nueva categoría**\
-****
+
 
 Si crees que necesitas añadir una categoría, guarda el estado actual de tu producto antes de hacer clic en el botón "Crear nueva categoría".
 
@@ -293,7 +293,7 @@ La forma en que funciona es bastante fácil: La página presenta una tabla de to
 
 Para obtener mayor información sobre las combinaciones de productos, consulta la [sección dedicada al final de este capítulo](http://doc.prestashop.com/display/PS17/Gestionar+los+productos#Gestionarlosproductos-Crearunproductoconcombinaciones).Los packs de productos y el producto virtual tienen diferentes configuraciones de stock, encontrarás todo lo que necesitas conocer sobre ellos al final de este capítulo.
 
-#### Preferencias de disponibilidad **** <a href="#gestionarlosproductos-preferenciasdedisponibilidad" id="gestionarlosproductos-preferenciasdedisponibilidad"></a>
+#### Preferencias de disponibilidad  <a href="#gestionarlosproductos-preferenciasdedisponibilidad" id="gestionarlosproductos-preferenciasdedisponibilidad"></a>
 
 **Comportamiento fuera de stock**
 
@@ -351,7 +351,7 @@ El precio de tu producto antes de añadirle impuestos.
 
 Puedes rellenar el campo "Precio - impuestos excluidos" y seleccionar una regla de impuestos a aplicar, y el "Precio - impuestos excluidos" será calculado automáticamente. La operación inversa también es posible.
 
-#### Precio de coste **** <a href="#gestionarlosproductos-preciodecoste" id="gestionarlosproductos-preciodecoste"></a>
+#### Precio de coste  <a href="#gestionarlosproductos-preciodecoste" id="gestionarlosproductos-preciodecoste"></a>
 
 Introduce el precio que pagó por el producto (cuánto le costó adquirir o fabricar el producto), éste le permitirá compararlo con tu precio de venta con el fin de calcular fácilmente tu beneficio.
 
@@ -377,7 +377,7 @@ Si deseas eliminar un valor, haz clic en el icono de la papelera en la tabla.
 
 Si deseas crear descuentos más complejos, consulta el capítulo "[Gestionar Descuentos"](http://doc.prestashop.com/display/PS17/Gestionar+Descuentos) de esta guía.
 
-#### Gestionar prioridades **** <a href="#gestionarlosproductos-gestionarprioridades" id="gestionarlosproductos-gestionarprioridades"></a>
+#### Gestionar prioridades  <a href="#gestionarlosproductos-gestionarprioridades" id="gestionarlosproductos-gestionarprioridades"></a>
 
 Un cliente podría estar relacionado y "afectado" por múltiples precios o por varias reglas de descuento, incluso aunque haya creado reglas muy específicas, descuentos por cantidades, grupos personalizados de clientes y tiendas (en el caso que estemos hablando dentro de un contexto multitienda). PrestaShop utiliza un conjunto de prioridades con el fin de aplicar una sola regla de precios a dichos clientes. Es posible que, por ejemplo, desees que el grupo de usuarios sea más importante que la moneda utilizada.\
 
@@ -541,7 +541,7 @@ El cliente puede a continuación comprobar el pedido, el cual mostrará la image
 
 El resto del proceso de pedido y entrega no varía y es el habitual.
 
-#### Adjuntar un archivo **** <a href="#gestionarlosproductos-adjuntarunarchivo" id="gestionarlosproductos-adjuntarunarchivo"></a>
+#### Adjuntar un archivo  <a href="#gestionarlosproductos-adjuntarunarchivo" id="gestionarlosproductos-adjuntarunarchivo"></a>
 
 PrestaShop permite poner a disposición del cliente algunos archivos adjuntos antes de la compra.
 

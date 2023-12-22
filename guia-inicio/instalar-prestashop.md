@@ -59,13 +59,13 @@ El archivo descargable está en formato Zip. Para continuar con el proceso, **ti
 Si tu sistema operativo no es compatible de forma nativa con archivos Zip, puedes descargar e instalar una herramienta específica, como:
 
 * Windows:
-  * 7-zip: [http://www.7-zip.org/](http://www.7-zip.org)
+  * 7-zip: [http://www.7-zip.org/](http://www.7-zip.org/)
   * WinZip: [http://www.winzip.com/win/en/index.htm](http://www.winzip.com/win/en/index.htm)
-  * WinRAR: [http://www.rarlab.com/](http://www.rarlab.com)
+  * WinRAR: [http://www.rarlab.com/](http://www.rarlab.com/)
 * Mac OS X:
-  * iZip: [http://www.izip.com/](http://www.izip.com)
+  * iZip: [http://www.izip.com/](http://www.izip.com/)
   * WinZip Mac: [http://www.winzip.com/mac/](http://www.winzip.com/mac/)
-  * Zipeg: [http://www.zipeg.com/](http://www.zipeg.com)
+  * Zipeg: [http://www.zipeg.com/](http://www.zipeg.com/)
 
 Extrae el contenido del archivo en tu disco duro (por ejemplo, en el Escritorio otra vez) usando una herramienta de descompresión. **No cargues el archivo Zip directamente en tu servidor web**.
 
@@ -81,7 +81,7 @@ No cargues el archivo “Install\_PrestaShop.html” a tu servidor web.
 
 A estas alturas, ya deberías tener un espacio de alojamiento a tu disposición (de lo contrario, lee el capítulo “¿Qué necesitas para empezar?” de esta guía) y una carpeta en tu disco duro con el archivo PrestaShop descomprimido.
 
-En este paso, vamos a cargar los archivos de PrestaShop en tu espacio de alojamiento. Para ello, tienes que conectar tu ordenador a tu servidor con una herramienta denominada “cliente FTP”, que deberías haber instalado durante la lectura del capítulo “¿Qué necesitas para empezar?”. Nosotros usaremos la herramienta gratuita FileZilla ([http://filezilla-project.org/](http://filezilla-project.org)).
+En este paso, vamos a cargar los archivos de PrestaShop en tu espacio de alojamiento. Para ello, tienes que conectar tu ordenador a tu servidor con una herramienta denominada “cliente FTP”, que deberías haber instalado durante la lectura del capítulo “¿Qué necesitas para empezar?”. Nosotros usaremos la herramienta gratuita FileZilla ([http://filezilla-project.org/](http://filezilla-project.org/)).
 
 Conéctate a tu espacio de alojamiento con tu cliente FTP con los datos de conexión que te haya proporcionado tu proveedor web (si no los tienes, ponte en contacto con él). Una vez conectado, hay que transferir los archivos de PrestaShop de tu ordenador a tu servidor.
 
@@ -92,12 +92,12 @@ En FileZilla (o cualquier otro cliente FTP), explora tus carpetas locales hasta 
 En la sección “Remote site” (Sitio remoto) (a la derecha), explora la ubicación donde quieres que PrestaShop esté disponible públicamente (raíz del dominio, subcarpeta, subdominio...). Esta configuración puede cambiar bastante en función de tu alojamiento y tus necesidades:
 
 * Tu alojamiento:
-  * Algunos alojamientos podrían requerir que coloques tus archivos en una carpeta concreta, como `/htdocs`, `/public_html`, `/web`, `/www`, `/`[nombredetudominio.com](http://yourdomainname.com), etc.
+  * Algunos alojamientos podrían requerir que coloques tus archivos en una carpeta concreta, como `/htdocs`, `/public_html`, `/web`, `/www`, `/`[nombredetudominio.com](http://yourdomainname.com/), etc.
   * Los servidores FTP de otros alojamientos te llevarán directamente al espacio de carga adecuado.
 * Lo que necesitas:
-  * Si quieres que tu tienda sea el sitio web principal para tu nombre de dominio (es decir, [http://www.ejemplo.com](http://www.example.com)), carga PrestaShop en la carpeta raíz del espacio de carga (podría depender del proveedor).
+  * Si quieres que tu tienda sea el sitio web principal para tu nombre de dominio (es decir, [http://www.ejemplo.com](http://www.example.com/)), carga PrestaShop en la carpeta raíz del espacio de carga (podría depender del proveedor).
   * Si quieres que la tienda esté en una subcarpeta de tu nombre de dominio ([http://www.ejemplo.com/tienda](http://www.example.com/shop)), primero tienes que crear una carpeta mediante FileZilla (haz clic con el botón derecho y elige “Create directory” \[Crear directorio]) y carga PrestaShop en esa carpeta.
-  * Si quieres que tu tienda esté en un subdominio de tu nombre de dominio ([http://tienda.ejemplo.com](http://shop.example.com)), primero tienes que crear un subdominio. Esto depende de tu proveedor: deberías poder hacerlo añadiendo una nueva carpeta en tu cliente FTP, o puede que tengas que usar el panel de administración de tu proveedor para crear el subdominio. Lee primero la documentación de soporte de tu proveedor. Cuando esté todo listo, navega hasta la carpeta del subdominio y carga PrestaShop ahí.
+  * Si quieres que tu tienda esté en un subdominio de tu nombre de dominio ([http://tienda.ejemplo.com](http://shop.example.com/)), primero tienes que crear un subdominio. Esto depende de tu proveedor: deberías poder hacerlo añadiendo una nueva carpeta en tu cliente FTP, o puede que tengas que usar el panel de administración de tu proveedor para crear el subdominio. Lee primero la documentación de soporte de tu proveedor. Cuando esté todo listo, navega hasta la carpeta del subdominio y carga PrestaShop ahí.
 
 En el lado izquierdo de FileZilla deberías tener la carpeta local donde tienes los archivos PrestaShop extraídos del Zip, y en el lado derecho, la ubicación de destino. Si aún no lo has hecho, el proceso de carga es sencillo: selecciona los tres archivos desde la carpeta local (usa Ctrl-A) y puedes optar entre arrastrar y soltarlos en la carpeta remota, o hacer clic con el botón derecho en la selección y elegir “Cargar” en el menú contextual.
 
@@ -105,7 +105,7 @@ En el lado izquierdo de FileZilla deberías tener la carpeta local donde tienes 
 
 Antes de que puedas instalar PrestaShop, tienes que comprobar que tu servidor MySQL cuenta con una base de datos preparada para alojar los datos de PrestaShop. De lo contrario, tendrás que crear una.
 
-Puedes crear una base de datos con cualquier herramienta de administración de bases de datos. Nosotros usaremos la herramienta gratuita phpMyAdmin ([http://www.phpmyadmin.net/](http://www.phpmyadmin.net)), que debería venir preinstalada en la mayoría de los alojamientos web.
+Puedes crear una base de datos con cualquier herramienta de administración de bases de datos. Nosotros usaremos la herramienta gratuita phpMyAdmin ([http://www.phpmyadmin.net/](http://www.phpmyadmin.net/)), que debería venir preinstalada en la mayoría de los alojamientos web.
 
 Algunos proveedores prefieren que los clientes usen un panel de control gráfico, como cPanel, Plesk o uno personalizado. Lee la documentación de tu proveedor sobre la gestión de bases de datos MySQL y crea una base de datos para tu tienda siguiendo sus explicaciones específicas.
 
@@ -139,7 +139,7 @@ Esta página es una introducción rápida al proceso de instalación. Puedes ele
 
 ![](../.gitbook/assets/54264241.png)
 
-También presenta un enlace al sitio de documentación ([http://doc.prestashop.com/](http://doc.prestashop.com)) y un enlace a nuestra oferta de Soporte. Para obtener más información sobre nuestro servicio de soporte, visita [http://support.prestashop.com/es/](http://support.prestashop.com/en/).
+También presenta un enlace al sitio de documentación ([http://doc.prestashop.com/](http://doc.prestashop.com/)) y un enlace a nuestra oferta de Soporte. Para obtener más información sobre nuestro servicio de soporte, visita [http://support.prestashop.com/es/](http://support.prestashop.com/en/).
 
 Selecciona el idioma del instalador y haz clic en el botón “Siguiente”. Esta acción también define el idioma predeterminado de la instalación de PrestaShop, pero tendrás a tu disposición otros idiomas para poder activarlos.
 
@@ -181,8 +181,8 @@ Aquí tienes una lista de las comprobaciones que se realizan durante este tercer
 | ¿Está instalado PHP 5.4 o posterior?                          | Servidor web                                                                                                      |
 | ¿Puede PrestaShop cargar archivos?                            | Archivo php.ini (`file_uploads`)                                                                                  |
 | ¿Puede PrestaShop crear archivos y carpetas nuevos?           | Navegador web / cliente FTP / línea de comandos                                                                   |
-| ¿Está la biblioteca GD instalada?                             | Archivo php.ini (`extension=`[php\_gd2.so](http://php\_gd2.so))                                                   |
-| ¿Está activada la compatibilidad con MySQL?                   | Archivo php.ini (`extension=`[php\_pdo\_mysql.so](http://php\_pdo\_mysql.so))                                     |
+| ¿Está la biblioteca GD instalada?                             | Archivo php.ini (`extension=`[php\_gd2.so](http://php\_gd2.so/))                                                  |
+| ¿Está activada la compatibilidad con MySQL?                   | Archivo php.ini (`extension=`[php\_pdo\_mysql.so](http://php\_pdo\_mysql.so/))                                    |
 | Permiso de escritura recursiva en \~/config/                  | Navegador web / cliente FTP / línea de comandos                                                                   |
 | Permiso de escritura recursiva en \~/cache/                   | Navegador web / cliente FTP / línea de comandos                                                                   |
 | Permiso de escritura recursiva en \~/log/                     | Navegador web / cliente FTP / línea de comandos                                                                   |
@@ -197,13 +197,13 @@ Aquí tienes una lista de las comprobaciones que se realizan durante este tercer
 | Permiso de escritura recursiva en \~/upload/                  | Navegador web / cliente FTP / línea de comandos                                                                   |
 | Permiso de escritura recursiva en \~/download/                | Navegador web / cliente FTP / línea de comandos                                                                   |
 | Permiso de escritura recursiva en \~/sitemap.xml              | Navegador web / cliente FTP / línea de comandos                                                                   |
-| ¿Puede PrestaShop abrir URL externas?                         | Archivo [php.in](http://php.in) (`allow_url_fopen`)                                                               |
+| ¿Puede PrestaShop abrir URL externas?                         | Archivo [php.in](http://php.in/) (`allow_url_fopen`)                                                              |
 | ¿Está desactivada la opción “register globals” de PHP?        | Archivo php.ini (`register_globals`)                                                                              |
 | ¿Está activada la compresión GZIP?                            | Archivo .htaccess                                                                                                 |
 | ¿Está disponible la extensión Mcrypt?                         | Archivo php.ini (consulta [http://php.net/manual/es/mcrypt.setup.php](http://php.net/manual/en/mcrypt.setup.php)) |
 | ¿Está la opción “magic quotes” de PHP desactivada?            | Archivo php.ini (`magic_quotes_gpc`)                                                                              |
 | ¿Está cargada la extensión Dom?                               | Opción de tiempo de compilación `--enable-dom`                                                                    |
-| ¿Está cargada la extensión PDO MySQL?                         | Archivo php.ini (`extension=`[php\_pdo\_mysql.so](http://php\_pdo\_mysql.so))                                     |
+| ¿Está cargada la extensión PDO MySQL?                         | Archivo php.ini (`extension=`[php\_pdo\_mysql.so](http://php\_pdo\_mysql.so/))                                    |
 
 Si bien solo se puede cambiar la configuración PHP caso por caso en función del nivel de acceso que tengas a tu servidor (lo que requeriría de una explicación en profundidad), actualizar los permisos de los archivos es más fácil de explicar.
 
@@ -255,7 +255,7 @@ Esta página contiene un formulario que te permite indicar a PrestaShop dónde s
 
 Rellena todos los campos con la información de conexión a la base de datos que te ha proporcionado tu proveedor web:
 
-* **Dirección del servidor de la base de datos**. El nombre de servidor de tu servidor MySQL. Se puede vincular a tu nombre de dominio (es decir, [http://sql.ejemplo.com](http://sql.example.com)), a tu alojamiento web ([http://mysql2.alwaysdata.com](http://mysql2.alwaysdata.com)) o ser simplemente una dirección web (como 46.105.78.185).
+* **Dirección del servidor de la base de datos**. El nombre de servidor de tu servidor MySQL. Se puede vincular a tu nombre de dominio (es decir, [http://sql.ejemplo.com](http://sql.example.com/)), a tu alojamiento web ([http://mysql2.alwaysdata.com](http://mysql2.alwaysdata.com/)) o ser simplemente una dirección web (como 46.105.78.185).
 * **Nombre de la base de datos**. El nombre de la base de datos donde quieres que PrestaShop almacene sus datos. Puede ser una base de datos existente en tu servidor MySQL o la que hayas creado usando phpMyAdmin (o cualquier otra herramienta SQL) en la sección “Creación de una base de datos para tu tienda” de esta guía.
 * **Inicio de sesión en la base de datos**. El nombre del usuario MySQL que tiene acceso a tu base de datos.
 * **Contraseña de la base de datos**. La contraseña del usuario MySQL.
@@ -292,12 +292,12 @@ Una forma fácil de mejorar la seguridad de tu instalación es eliminar algunos 
 
 * La carpeta “/install” (obligatorio).
 * La carpeta “/docs” (opcional), a menos que necesites probar la herramienta de importación con los archivos de importación de muestra que contiene esta carpeta.
-* El archivo “[README.md](http://readme.md)” (opcional).
+* El archivo “[README.md](http://readme.md/)” (opcional).
 
 Haz clic en el botón “Gestionar tu tienda” para dirigirte al área de administración.
 
 Otra forma de asegurar tu instalación es usar un nombre personalizado para la carpeta de administración: cambia la carpeta “admin” por algo que te sea exclusivo para ti, como “4dmin-1537” o “Mi4dm1nSecReTo”.\
-**** **Anota el nuevo nombre de tu nueva carpeta “admin”**, porque, a partir de ahora, ¡tendrás que acceder a tus páginas de administración con esta dirección!
+&#x20;**Anota el nuevo nombre de tu nueva carpeta “admin”**, porque, a partir de ahora, ¡tendrás que acceder a tus páginas de administración con esta dirección!
 
 Por último, para poder cerrar todas las puertas potencialmente maliciosas, utiliza el cliente FTP para actualizar todos los permisos de los archivos y las carpetas a 664 o 666, si tu proveedor lo requiere. Si resulta que unos derechos de acceso bajos interfieren en el funcionamiento de algunos módulos, vuelve a configurar los permisos en 755.
 
