@@ -1,14 +1,14 @@
 # Table of contents
 
 * [Contributing to the documentation](README.md)
-* [Guía de inicio](guia-inicio/README.md)
+* [Guía de inicio PrestaShop 8](guia-inicio/README.md)
   * [¿Qué necesitas para empezar?](guia-inicio/que-necesitas-para-empezar.md)
   * [Instalar PrestaShop](guia-inicio/instalar-prestashop.md)
   * [Instalar PrestaShop en su ordenador](guia-inicio/instalar-prestashop-ordenador.md)
   * [Instalar PrestaShop usando el script de línea de comandos](guia-inicio/instalar-prestashop-usando-el-script-de-linea-de-comandos.md)
   * [Desinstalar PrestaShop](guia-inicio/desinstalar-prestashop.md)
   * [Información miscelánea](guia-inicio/informacion-miscelanea.md)
-* [Guía del Usuario](guia-usuario/README.md)
+* [Guía del Usuario PrestaShop 8](guia-usuario/README.md)
   * [Formación](guia-usuario/formacion.md)
   * [Personalizar tu tienda](guia-usuario/personalizar-tienda.md)
   * [Conexión al back-office de PrestaShop](guia-usuario/conexion-back-office.md)
