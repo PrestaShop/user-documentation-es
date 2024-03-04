@@ -56,7 +56,7 @@ Si quieres obtener tu nombre de dominio de un registrador independiente, estos s
 * Gandi: [http://en.gandi.net/](http://en.gandi.net/)
 * Namecheap: [http://www.namecheap.com/](http://www.namecheap.com/)
 * GoDaddy: [https://www.godaddy.com/](https://www.godaddy.com/)
-* 1&1 IONOS : [https://www.ionos.es](https://www.ionos.es/)
+* IONOS : [https://www.ionos.es](https://www.ionos.es/)
 
 Hay muchos más. ¡Pregunta a tus amigos!
 
