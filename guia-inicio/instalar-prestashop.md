@@ -10,9 +10,9 @@ Instalar PrestaShop es muy fácil. Cuando tengas todos los archivos en tu servid
 
 Antes de empezar, asegúrate de que dispones de todos los requisitos: espacio de servidor en un proveedor de alojamiento, nombre de dominio, cliente FTP y editor de texto. Antes de nada, sigue las instrucciones de la página “[¿Qué necesitas para empezar?](que-necesitas-para-empezar.md)”.
 
-Nuestro socio de alojamiento web 1&1 IONOS ofrece instalación en 1 clic para ahorrarte tiempo y que puedas empezar aún más rápido. Usar esta función puede reducir enormemente el tiempo de instalación para los usuarios inexpertos.&#x20;
+Nuestro socio de alojamiento web IONOS ofrece instalación en 1 clic para ahorrarte tiempo y que puedas empezar aún más rápido. Usar esta función puede reducir enormemente el tiempo de instalación para los usuarios inexpertos.&#x20;
 
-* [Alojamiento de 1&1 IONOS](https://www.ionos.es/soluciones-ecommerce/prestashop-hosting?ac=OM.WE.WEs96K414095T7073a)&#x20;
+* [Alojamiento de IONOS](https://www.ionos.es/soluciones-ecommerce/prestashop-hosting?ac=OM.WE.WEs96K414095T7073a)&#x20;
 
 Esos proveedores web utilizan principalmente las siguientes bibliotecas de scripts:
 
